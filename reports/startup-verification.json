@@ -1,0 +1,8 @@
+{
+  "id": "insurance-platform",
+  "port": 46006,
+  "status": "passed",
+  "startScript": true,
+  "health": true,
+  "verifiedAt": "2026-09-07T14:38:26.932Z"
+}

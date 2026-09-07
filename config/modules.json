@@ -1,0 +1,146 @@
+[
+  {
+    "id": "ai-business-interruption-claim-recovery",
+    "name": "Business interruption claim recovery",
+    "sourceProject": "ai-business-interruption-claim-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-captive-insurance-collateral-reconciliation",
+    "name": "Captive insurance collateral reconciliation",
+    "sourceProject": "ai-captive-insurance-collateral-reconciliation",
+    "services": []
+  },
+  {
+    "id": "ai-cargo-loss-damage-claims-recovery",
+    "name": "Cargo loss damage claims recovery",
+    "sourceProject": "ai-cargo-loss-damage-claims-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-catastrophe-reinsurance-recoverable-management",
+    "name": "Catastrophe reinsurance recoverable management",
+    "sourceProject": "ai-catastrophe-reinsurance-recoverable-management",
+    "services": []
+  },
+  {
+    "id": "ai-claims-litigation-early-warning-system",
+    "name": "Claims litigation early warning system",
+    "sourceProject": "ai-claims-litigation-early-warning-system",
+    "services": []
+  },
+  {
+    "id": "ai-commercial-insurance-contingent-commission-audit",
+    "name": "Commercial insurance contingent commission audit",
+    "sourceProject": "ai-commercial-insurance-contingent-commission-audit",
+    "services": []
+  },
+  {
+    "id": "ai-commercial-insurance-premium-audit",
+    "name": "Commercial insurance premium audit",
+    "sourceProject": "ai-commercial-insurance-premium-audit",
+    "services": []
+  },
+  {
+    "id": "ai-crop-insurance-claim-recovery",
+    "name": "Crop insurance claim recovery",
+    "sourceProject": "ai-crop-insurance-claim-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-cyber-insurance-incident-claim-recovery",
+    "name": "Cyber insurance incident claim recovery",
+    "sourceProject": "ai-cyber-insurance-incident-claim-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-insurance-agent-commission-chargeback-reconciliation",
+    "name": "Insurance agent commission chargeback reconciliation",
+    "sourceProject": "ai-insurance-agent-commission-chargeback-reconciliation",
+    "services": []
+  },
+  {
+    "id": "ai-insurance-broker-commission-reconciliation",
+    "name": "Insurance broker commission reconciliation",
+    "sourceProject": "ai-insurance-broker-commission-reconciliation",
+    "services": []
+  },
+  {
+    "id": "ai-insurance-product-form-filing",
+    "name": "Insurance product form filing",
+    "sourceProject": "ai-insurance-product-form-filing",
+    "services": []
+  },
+  {
+    "id": "ai-premium-audit-return-premium-recovery",
+    "name": "Premium audit return premium recovery",
+    "sourceProject": "ai-premium-audit-return-premium-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-reinsurance-bordereaux-treaty-reconciliation",
+    "name": "Reinsurance bordereaux treaty reconciliation",
+    "sourceProject": "ai-reinsurance-bordereaux-treaty-reconciliation",
+    "services": []
+  },
+  {
+    "id": "ai-reinsurance-collateral-trust-funding-reconciliation",
+    "name": "Reinsurance collateral trust funding reconciliation",
+    "sourceProject": "ai-reinsurance-collateral-trust-funding-reconciliation",
+    "services": []
+  },
+  {
+    "id": "ai-surety-bond-claim-indemnity-recovery",
+    "name": "Surety bond claim indemnity recovery",
+    "sourceProject": "ai-surety-bond-claim-indemnity-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-title-insurance-closing-fee-audit",
+    "name": "Title insurance closing fee audit",
+    "sourceProject": "ai-title-insurance-closing-fee-audit",
+    "services": []
+  },
+  {
+    "id": "ai-trade-credit-insurance-policy-operations",
+    "name": "Trade credit insurance policy operations",
+    "sourceProject": "ai-trade-credit-insurance-policy-operations",
+    "services": []
+  },
+  {
+    "id": "ai-unemployment-insurance-rate-audit",
+    "name": "Unemployment insurance rate audit",
+    "sourceProject": "ai-unemployment-insurance-rate-audit",
+    "services": []
+  },
+  {
+    "id": "AIInsuranceClaimsAdjuster",
+    "name": "Insurance claims adjuster",
+    "sourceProject": "AIInsuranceClaimsAdjuster",
+    "services": []
+  },
+  {
+    "id": "AIInsuranceUnderwritingAgent",
+    "name": "Insurance underwriting agent",
+    "sourceProject": "AIInsuranceUnderwritingAgent",
+    "services": []
+  },
+  {
+    "id": "claims-subrogation-recovery-suite",
+    "name": "Claims subrogation recovery suite",
+    "sourceProject": "claims-subrogation-recovery-suite",
+    "services": []
+  },
+  {
+    "id": "insuranceAgenc",
+    "name": "Insurance agenc",
+    "sourceProject": "insuranceAgenc",
+    "services": []
+  },
+  {
+    "id": "workers-comp-claims-bill-review-suite",
+    "name": "Workers comp claims bill review suite",
+    "sourceProject": "workers-comp-claims-bill-review-suite",
+    "services": []
+  }
+]

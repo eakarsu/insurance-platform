@@ -1,0 +1,1870 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "claim-documentation-package",
+      "bordereau-validate",
+      "recoverable-calc",
+      "collateral-gap",
+      "shipment-declaration-draft",
+      "operations-handoff-draft",
+      "document-analysis",
+      "document-processor",
+      "email-composer",
+      "claim-summarizer"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 13 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "claim-documentation-package",
+        "title": "Claim documentation package",
+        "originalPath": "/features/claim-documentation-package"
+      },
+      {
+        "id": "bordereau-validate",
+        "title": "Draft: Bordereau Validator",
+        "originalPath": "/features/bordereau-validate"
+      },
+      {
+        "id": "recoverable-calc",
+        "title": "Draft: Loss Recoverable Calculator",
+        "originalPath": "/features/recoverable-calc"
+      },
+      {
+        "id": "collateral-gap",
+        "title": "Draft: Collateral Gap Monitor",
+        "originalPath": "/features/collateral-gap"
+      },
+      {
+        "id": "shipment-declaration-draft",
+        "title": "Shipment declaration draft",
+        "originalPath": "/features/shipment-declaration-draft"
+      },
+      {
+        "id": "operations-handoff-draft",
+        "title": "Operations handoff draft",
+        "originalPath": "/features/operations-handoff-draft"
+      },
+      {
+        "id": "document-analysis",
+        "title": "Document Analysis",
+        "originalPath": "/features/document-analysis"
+      },
+      {
+        "id": "document-processor",
+        "title": "Document Processor",
+        "originalPath": "/features/document-processor"
+      },
+      {
+        "id": "email-composer",
+        "title": "Email Composer",
+        "originalPath": "/features/email-composer"
+      },
+      {
+        "id": "claim-summarizer",
+        "title": "Claim Summarizer",
+        "originalPath": "/features/claim-summarizer"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "policy-endorsement-and-sublimit-library",
+      "physical-damage-evidence",
+      "continuing-expense-validation",
+      "case-reserve-validation",
+      "premium-offset-control",
+      "damage-photo-and-survey-evidence",
+      "claim-filing-deadline-control",
+      "notice-deadline-control",
+      "policy-premium-ingestion",
+      "growth-target-validation",
+      "acquisition-exclusion-control",
+      "policy-endorsement-library",
+      "prevented-planting-eligibility",
+      "quality-adjustment",
+      "adjuster-evidence-package",
+      "notification-deadline-control",
+      "consent-panel-vendor-control",
+      "replacement-policy-control",
+      "policy-and-endorsement-ingestion",
+      "producer-split-validation",
+      "policy-exposure-terms",
+      "certificate-validation",
+      "experience-modification-control",
+      "audit-worksheet-reconstruction",
+      "dispute-evidence-package",
+      "policy-class-analytics",
+      "asset-eligibility-review",
+      "counterparty-dispute-evidence",
+      "owner-policy-calculation",
+      "lender-policy-calculation",
+      "endorsement-validation",
+      "claim-evidence",
+      "policy-condition-extraction",
+      "buyer-limit-exception-brief",
+      "claim-evidence-gap-analysis",
+      "evidence-completeness-review",
+      "protest-evidence-package",
+      "fraud-detection",
+      "risk-assessment",
+      "policy-coverage",
+      "policy-review",
+      "audit-analysis",
+      "claim-severity-leakage-audit",
+      "fraud-ring-detection-correlating-claims",
+      "policy-recommendation",
+      "analyze",
+      "investigate",
+      "fraud-probability-ai",
+      "policy-recommendation-engine",
+      "risk-assessor",
+      "policy-comparison",
+      "compliance-checker"
+    ],
+    "ai": true,
+    "representativeId": "policy-endorsement-and-sublimit-library",
+    "description": "One assistant for 52 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "policy-endorsement-and-sublimit-library",
+        "title": "Policy endorsement and sublimit library",
+        "originalPath": "/features/policy-endorsement-and-sublimit-library"
+      },
+      {
+        "id": "physical-damage-evidence",
+        "title": "Physical damage evidence",
+        "originalPath": "/features/physical-damage-evidence"
+      },
+      {
+        "id": "continuing-expense-validation",
+        "title": "Continuing-expense validation",
+        "originalPath": "/features/continuing-expense-validation"
+      },
+      {
+        "id": "case-reserve-validation",
+        "title": "Case reserve validation",
+        "originalPath": "/features/case-reserve-validation"
+      },
+      {
+        "id": "premium-offset-control",
+        "title": "Premium offset control",
+        "originalPath": "/features/premium-offset-control"
+      },
+      {
+        "id": "damage-photo-and-survey-evidence",
+        "title": "Damage photo and survey evidence",
+        "originalPath": "/features/damage-photo-and-survey-evidence"
+      },
+      {
+        "id": "claim-filing-deadline-control",
+        "title": "Claim filing deadline control",
+        "originalPath": "/features/claim-filing-deadline-control"
+      },
+      {
+        "id": "notice-deadline-control",
+        "title": "Notice deadline control",
+        "originalPath": "/features/notice-deadline-control"
+      },
+      {
+        "id": "policy-premium-ingestion",
+        "title": "Policy premium ingestion",
+        "originalPath": "/features/policy-premium-ingestion"
+      },
+      {
+        "id": "growth-target-validation",
+        "title": "Growth target validation",
+        "originalPath": "/features/growth-target-validation"
+      },
+      {
+        "id": "acquisition-exclusion-control",
+        "title": "Acquisition exclusion control",
+        "originalPath": "/features/acquisition-exclusion-control"
+      },
+      {
+        "id": "policy-endorsement-library",
+        "title": "Policy endorsement library",
+        "originalPath": "/features/policy-endorsement-library"
+      },
+      {
+        "id": "prevented-planting-eligibility",
+        "title": "Prevented planting eligibility",
+        "originalPath": "/features/prevented-planting-eligibility"
+      },
+      {
+        "id": "quality-adjustment",
+        "title": "Quality adjustment",
+        "originalPath": "/features/quality-adjustment"
+      },
+      {
+        "id": "adjuster-evidence-package",
+        "title": "Adjuster evidence package",
+        "originalPath": "/features/adjuster-evidence-package"
+      },
+      {
+        "id": "notification-deadline-control",
+        "title": "Notification deadline control",
+        "originalPath": "/features/notification-deadline-control"
+      },
+      {
+        "id": "consent-panel-vendor-control",
+        "title": "Consent panel vendor control",
+        "originalPath": "/features/consent-panel-vendor-control"
+      },
+      {
+        "id": "replacement-policy-control",
+        "title": "Replacement policy control",
+        "originalPath": "/features/replacement-policy-control"
+      },
+      {
+        "id": "policy-and-endorsement-ingestion",
+        "title": "Policy and endorsement ingestion",
+        "originalPath": "/features/policy-and-endorsement-ingestion"
+      },
+      {
+        "id": "producer-split-validation",
+        "title": "Producer split validation",
+        "originalPath": "/features/producer-split-validation"
+      },
+      {
+        "id": "policy-exposure-terms",
+        "title": "Policy exposure terms",
+        "originalPath": "/features/policy-exposure-terms"
+      },
+      {
+        "id": "certificate-validation",
+        "title": "Certificate validation",
+        "originalPath": "/features/certificate-validation"
+      },
+      {
+        "id": "experience-modification-control",
+        "title": "Experience modification control",
+        "originalPath": "/features/experience-modification-control"
+      },
+      {
+        "id": "audit-worksheet-reconstruction",
+        "title": "Audit worksheet reconstruction",
+        "originalPath": "/features/audit-worksheet-reconstruction"
+      },
+      {
+        "id": "dispute-evidence-package",
+        "title": "Dispute evidence package",
+        "originalPath": "/features/dispute-evidence-package"
+      },
+      {
+        "id": "policy-class-analytics",
+        "title": "Policy class analytics",
+        "originalPath": "/features/policy-class-analytics"
+      },
+      {
+        "id": "asset-eligibility-review",
+        "title": "Asset eligibility review",
+        "originalPath": "/features/asset-eligibility-review"
+      },
+      {
+        "id": "counterparty-dispute-evidence",
+        "title": "Counterparty dispute evidence",
+        "originalPath": "/features/counterparty-dispute-evidence"
+      },
+      {
+        "id": "owner-policy-calculation",
+        "title": "Owner policy calculation",
+        "originalPath": "/features/owner-policy-calculation"
+      },
+      {
+        "id": "lender-policy-calculation",
+        "title": "Lender policy calculation",
+        "originalPath": "/features/lender-policy-calculation"
+      },
+      {
+        "id": "endorsement-validation",
+        "title": "Endorsement validation",
+        "originalPath": "/features/endorsement-validation"
+      },
+      {
+        "id": "claim-evidence",
+        "title": "Claim Evidence",
+        "originalPath": "/features/claim-evidence"
+      },
+      {
+        "id": "policy-condition-extraction",
+        "title": "Policy condition extraction",
+        "originalPath": "/features/policy-condition-extraction"
+      },
+      {
+        "id": "buyer-limit-exception-brief",
+        "title": "Buyer limit exception brief",
+        "originalPath": "/features/buyer-limit-exception-brief"
+      },
+      {
+        "id": "claim-evidence-gap-analysis",
+        "title": "Claim evidence gap analysis",
+        "originalPath": "/features/claim-evidence-gap-analysis"
+      },
+      {
+        "id": "evidence-completeness-review",
+        "title": "Evidence completeness review",
+        "originalPath": "/features/evidence-completeness-review"
+      },
+      {
+        "id": "protest-evidence-package",
+        "title": "Protest evidence package",
+        "originalPath": "/features/protest-evidence-package"
+      },
+      {
+        "id": "fraud-detection",
+        "title": "Fraud Detection",
+        "originalPath": "/features/fraud-detection"
+      },
+      {
+        "id": "risk-assessment",
+        "title": "Risk Assessment",
+        "originalPath": "/features/risk-assessment"
+      },
+      {
+        "id": "policy-coverage",
+        "title": "Policy Coverage Analysis",
+        "originalPath": "/features/policy-coverage"
+      },
+      {
+        "id": "policy-review",
+        "title": "Policy Review",
+        "originalPath": "/features/policy-review"
+      },
+      {
+        "id": "audit-analysis",
+        "title": "Audit Analysis",
+        "originalPath": "/features/audit-analysis"
+      },
+      {
+        "id": "claim-severity-leakage-audit",
+        "title": "Claim severity leakage audit",
+        "originalPath": "/features/claim-severity-leakage-audit"
+      },
+      {
+        "id": "fraud-ring-detection-correlating-claims",
+        "title": "fraud ring detection correlating claims",
+        "originalPath": "/features/fraud-ring-detection-correlating-claims"
+      },
+      {
+        "id": "policy-recommendation",
+        "title": "Policy Recommendation",
+        "originalPath": "/features/policy-recommendation"
+      },
+      {
+        "id": "analyze",
+        "title": "AI Analyze Risk",
+        "originalPath": "/features/analyze"
+      },
+      {
+        "id": "investigate",
+        "title": "AI Investigate Fraud",
+        "originalPath": "/features/investigate"
+      },
+      {
+        "id": "fraud-probability-ai",
+        "title": "fraud probability ai",
+        "originalPath": "/features/fraud-probability-ai"
+      },
+      {
+        "id": "policy-recommendation-engine",
+        "title": "policy recommendation engine",
+        "originalPath": "/features/policy-recommendation-engine"
+      },
+      {
+        "id": "risk-assessor",
+        "title": "Risk Assessor",
+        "originalPath": "/features/risk-assessor"
+      },
+      {
+        "id": "policy-comparison",
+        "title": "Policy Comparison",
+        "originalPath": "/features/policy-comparison"
+      },
+      {
+        "id": "compliance-checker",
+        "title": "Compliance Checker",
+        "originalPath": "/features/compliance-checker"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "covered-location-registry",
+      "loss-event-timeline",
+      "saved-expense-calculation",
+      "extra-expense-calculation",
+      "restoration-period-modeling",
+      "insurer-request-workflow",
+      "claim-scenario-analytics",
+      "fronting-agreement-library",
+      "program-year-registry",
+      "loss-run-ingestion",
+      "ibnr-methodology",
+      "collateral-formula-calculation",
+      "instrument-inventory",
+      "fronting-carrier-request",
+      "program-capital-analytics",
+      "carrier-liability-library",
+      "shipment-commodity-registry",
+      "bill-of-lading-ingestion",
+      "custody-event-timeline",
+      "seal-and-handoff-tracking",
+      "salvage-value-management",
+      "liability-limitation-calculation",
+      "claim-packet-generation",
+      "carrier-response-workflow",
+      "carrier-commodity-and-lane-analytics",
+      "catastrophe-event-registry",
+      "claim-loss-ingestion",
+      "hours-clause-grouping",
+      "ultimate-loss-estimate",
+      "retention-erosion",
+      "layer-allocation",
+      "limit-exhaustion",
+      "reinstatement-premium",
+      "cash-call-calculation",
+      "proof-of-loss-package",
+      "reinsurer-query-workflow",
+      "event-tower-analytics",
+      "claims-litigation-early-warning-system",
+      "producer-agreement-library",
+      "written-premium-calculation",
+      "earned-premium-calculation",
+      "retention-ratio-calculation",
+      "loss-ratio-calculation",
+      "profitability-corridor",
+      "tier-and-hurdle-calculation",
+      "carrier-claim-package",
+      "producer-allocation",
+      "carrier-segment-analytics",
+      "farm-unit-acreage-registry",
+      "harvest-scale-ticket-ingestion",
+      "yield-loss-calculation",
+      "notice-of-loss-deadline",
+      "crop-county-peril-analytics",
+      "incident-timeline",
+      "notification-monitoring-expense",
+      "data-restoration-expense",
+      "business-interruption-calculation",
+      "cyber-extortion-expense",
+      "producer-contract-library",
+      "hierarchy-split-calculation",
+      "free-look-reversal",
+      "producer-dispute-workflow",
+      "carrier-producer-analytics",
+      "carrier-and-producer-agreement-library",
+      "override-and-bonus-calculation",
+      "carrier-inquiry-and-dispute",
+      "cash-application-and-aging",
+      "carrier-and-producer-profitability-analytics",
+      "owner-officer-exclusion",
+      "rate-and-factor-calculation",
+      "carrier-negotiation-workflow",
+      "return-premium-calculation",
+      "commutation-review",
+      "agreement-collateral-terms",
+      "reserve-recoverable-ingestion",
+      "paid-loss-recoverables",
+      "required-collateral-calculation",
+      "valuation-haircut-calculation",
+      "funds-withheld-balance",
+      "collateral-call-workflow",
+      "excess-release-calculation",
+      "treaty-counterparty-analytics",
+      "bond-indemnity-library",
+      "principal-indemnitor-registry",
+      "loss-adjustment-expense",
+      "collateral-inventory",
+      "collateral-drawdown",
+      "salvage-asset-tracking",
+      "co-surety-allocation",
+      "subrogation-opportunity",
+      "recovery-litigation-workflow",
+      "cash-recovery-ledger",
+      "bond-principal-analytics",
+      "state-title-rate-library",
+      "transaction-property-registry",
+      "loan-purchase-ingestion",
+      "simultaneous-issue-rate",
+      "closing-disclosure-comparison",
+      "agent-jurisdiction-analytics",
+      "overdue-notice-preparation",
+      "insurer-response-summary",
+      "state-account-registry",
+      "rate-notice-extraction",
+      "benefit-charge-statement",
+      "experience-rating-calculation",
+      "successor-predecessor-transfer",
+      "voluntary-contribution-model",
+      "rate-protest-deadline",
+      "amended-return-workflow",
+      "state-employer-analytics",
+      "damage-assessment",
+      "adjuster-performance",
+      "smart-summary",
+      "auto-assign",
+      "claims",
+      "reserve-estimation",
+      "customer-ltv-retention",
+      "agentic-claims-triage-auto-routing-by",
+      "computer-vision-damage-assessment-from-m",
+      "reserve-estimation-ai",
+      "websocket-real-time-claim-feed",
+      "claims-processing",
+      "evaluate",
+      "quote-generator",
+      "claims-assistant",
+      "voice-receptionist",
+      "smart-search",
+      "client-summary",
+      "chatbot",
+      "ai-suite"
+    ],
+    "ai": true,
+    "representativeId": "covered-location-registry",
+    "description": "One assistant for 130 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "covered-location-registry",
+        "title": "Covered location registry",
+        "originalPath": "/features/covered-location-registry"
+      },
+      {
+        "id": "loss-event-timeline",
+        "title": "Loss-event timeline",
+        "originalPath": "/features/loss-event-timeline"
+      },
+      {
+        "id": "saved-expense-calculation",
+        "title": "Saved-expense calculation",
+        "originalPath": "/features/saved-expense-calculation"
+      },
+      {
+        "id": "extra-expense-calculation",
+        "title": "Extra-expense calculation",
+        "originalPath": "/features/extra-expense-calculation"
+      },
+      {
+        "id": "restoration-period-modeling",
+        "title": "Restoration-period modeling",
+        "originalPath": "/features/restoration-period-modeling"
+      },
+      {
+        "id": "insurer-request-workflow",
+        "title": "Insurer request workflow",
+        "originalPath": "/features/insurer-request-workflow"
+      },
+      {
+        "id": "claim-scenario-analytics",
+        "title": "Claim scenario analytics",
+        "originalPath": "/features/claim-scenario-analytics"
+      },
+      {
+        "id": "fronting-agreement-library",
+        "title": "Fronting agreement library",
+        "originalPath": "/features/fronting-agreement-library"
+      },
+      {
+        "id": "program-year-registry",
+        "title": "Program year registry",
+        "originalPath": "/features/program-year-registry"
+      },
+      {
+        "id": "loss-run-ingestion",
+        "title": "Loss run ingestion",
+        "originalPath": "/features/loss-run-ingestion"
+      },
+      {
+        "id": "ibnr-methodology",
+        "title": "IBNR methodology",
+        "originalPath": "/features/ibnr-methodology"
+      },
+      {
+        "id": "collateral-formula-calculation",
+        "title": "Collateral formula calculation",
+        "originalPath": "/features/collateral-formula-calculation"
+      },
+      {
+        "id": "instrument-inventory",
+        "title": "Instrument inventory",
+        "originalPath": "/features/instrument-inventory"
+      },
+      {
+        "id": "fronting-carrier-request",
+        "title": "Fronting carrier request",
+        "originalPath": "/features/fronting-carrier-request"
+      },
+      {
+        "id": "program-capital-analytics",
+        "title": "Program capital analytics",
+        "originalPath": "/features/program-capital-analytics"
+      },
+      {
+        "id": "carrier-liability-library",
+        "title": "Carrier liability library",
+        "originalPath": "/features/carrier-liability-library"
+      },
+      {
+        "id": "shipment-commodity-registry",
+        "title": "Shipment commodity registry",
+        "originalPath": "/features/shipment-commodity-registry"
+      },
+      {
+        "id": "bill-of-lading-ingestion",
+        "title": "Bill-of-lading ingestion",
+        "originalPath": "/features/bill-of-lading-ingestion"
+      },
+      {
+        "id": "custody-event-timeline",
+        "title": "Custody event timeline",
+        "originalPath": "/features/custody-event-timeline"
+      },
+      {
+        "id": "seal-and-handoff-tracking",
+        "title": "Seal and handoff tracking",
+        "originalPath": "/features/seal-and-handoff-tracking"
+      },
+      {
+        "id": "salvage-value-management",
+        "title": "Salvage value management",
+        "originalPath": "/features/salvage-value-management"
+      },
+      {
+        "id": "liability-limitation-calculation",
+        "title": "Liability limitation calculation",
+        "originalPath": "/features/liability-limitation-calculation"
+      },
+      {
+        "id": "claim-packet-generation",
+        "title": "Claim packet generation",
+        "originalPath": "/features/claim-packet-generation"
+      },
+      {
+        "id": "carrier-response-workflow",
+        "title": "Carrier response workflow",
+        "originalPath": "/features/carrier-response-workflow"
+      },
+      {
+        "id": "carrier-commodity-and-lane-analytics",
+        "title": "Carrier commodity and lane analytics",
+        "originalPath": "/features/carrier-commodity-and-lane-analytics"
+      },
+      {
+        "id": "catastrophe-event-registry",
+        "title": "Catastrophe event registry",
+        "originalPath": "/features/catastrophe-event-registry"
+      },
+      {
+        "id": "claim-loss-ingestion",
+        "title": "Claim loss ingestion",
+        "originalPath": "/features/claim-loss-ingestion"
+      },
+      {
+        "id": "hours-clause-grouping",
+        "title": "Hours-clause grouping",
+        "originalPath": "/features/hours-clause-grouping"
+      },
+      {
+        "id": "ultimate-loss-estimate",
+        "title": "Ultimate loss estimate",
+        "originalPath": "/features/ultimate-loss-estimate"
+      },
+      {
+        "id": "retention-erosion",
+        "title": "Retention erosion",
+        "originalPath": "/features/retention-erosion"
+      },
+      {
+        "id": "layer-allocation",
+        "title": "Layer allocation",
+        "originalPath": "/features/layer-allocation"
+      },
+      {
+        "id": "limit-exhaustion",
+        "title": "Limit exhaustion",
+        "originalPath": "/features/limit-exhaustion"
+      },
+      {
+        "id": "reinstatement-premium",
+        "title": "Reinstatement premium",
+        "originalPath": "/features/reinstatement-premium"
+      },
+      {
+        "id": "cash-call-calculation",
+        "title": "Cash call calculation",
+        "originalPath": "/features/cash-call-calculation"
+      },
+      {
+        "id": "proof-of-loss-package",
+        "title": "Proof-of-loss package",
+        "originalPath": "/features/proof-of-loss-package"
+      },
+      {
+        "id": "reinsurer-query-workflow",
+        "title": "Reinsurer query workflow",
+        "originalPath": "/features/reinsurer-query-workflow"
+      },
+      {
+        "id": "event-tower-analytics",
+        "title": "Event tower analytics",
+        "originalPath": "/features/event-tower-analytics"
+      },
+      {
+        "id": "claims-litigation-early-warning-system",
+        "title": "Claims litigation early warning system work",
+        "originalPath": "/features/claims-litigation-early-warning-system"
+      },
+      {
+        "id": "producer-agreement-library",
+        "title": "Producer agreement library",
+        "originalPath": "/features/producer-agreement-library"
+      },
+      {
+        "id": "written-premium-calculation",
+        "title": "Written premium calculation",
+        "originalPath": "/features/written-premium-calculation"
+      },
+      {
+        "id": "earned-premium-calculation",
+        "title": "Earned premium calculation",
+        "originalPath": "/features/earned-premium-calculation"
+      },
+      {
+        "id": "retention-ratio-calculation",
+        "title": "Retention ratio calculation",
+        "originalPath": "/features/retention-ratio-calculation"
+      },
+      {
+        "id": "loss-ratio-calculation",
+        "title": "Loss ratio calculation",
+        "originalPath": "/features/loss-ratio-calculation"
+      },
+      {
+        "id": "profitability-corridor",
+        "title": "Profitability corridor",
+        "originalPath": "/features/profitability-corridor"
+      },
+      {
+        "id": "tier-and-hurdle-calculation",
+        "title": "Tier and hurdle calculation",
+        "originalPath": "/features/tier-and-hurdle-calculation"
+      },
+      {
+        "id": "carrier-claim-package",
+        "title": "Carrier claim package",
+        "originalPath": "/features/carrier-claim-package"
+      },
+      {
+        "id": "producer-allocation",
+        "title": "Producer allocation",
+        "originalPath": "/features/producer-allocation"
+      },
+      {
+        "id": "carrier-segment-analytics",
+        "title": "Carrier segment analytics",
+        "originalPath": "/features/carrier-segment-analytics"
+      },
+      {
+        "id": "farm-unit-acreage-registry",
+        "title": "Farm unit acreage registry",
+        "originalPath": "/features/farm-unit-acreage-registry"
+      },
+      {
+        "id": "harvest-scale-ticket-ingestion",
+        "title": "Harvest scale-ticket ingestion",
+        "originalPath": "/features/harvest-scale-ticket-ingestion"
+      },
+      {
+        "id": "yield-loss-calculation",
+        "title": "Yield loss calculation",
+        "originalPath": "/features/yield-loss-calculation"
+      },
+      {
+        "id": "notice-of-loss-deadline",
+        "title": "Notice-of-loss deadline",
+        "originalPath": "/features/notice-of-loss-deadline"
+      },
+      {
+        "id": "crop-county-peril-analytics",
+        "title": "Crop county peril analytics",
+        "originalPath": "/features/crop-county-peril-analytics"
+      },
+      {
+        "id": "incident-timeline",
+        "title": "Incident timeline",
+        "originalPath": "/features/incident-timeline"
+      },
+      {
+        "id": "notification-monitoring-expense",
+        "title": "Notification monitoring expense",
+        "originalPath": "/features/notification-monitoring-expense"
+      },
+      {
+        "id": "data-restoration-expense",
+        "title": "Data restoration expense",
+        "originalPath": "/features/data-restoration-expense"
+      },
+      {
+        "id": "business-interruption-calculation",
+        "title": "Business interruption calculation",
+        "originalPath": "/features/business-interruption-calculation"
+      },
+      {
+        "id": "cyber-extortion-expense",
+        "title": "Cyber extortion expense",
+        "originalPath": "/features/cyber-extortion-expense"
+      },
+      {
+        "id": "producer-contract-library",
+        "title": "Producer contract library",
+        "originalPath": "/features/producer-contract-library"
+      },
+      {
+        "id": "hierarchy-split-calculation",
+        "title": "Hierarchy split calculation",
+        "originalPath": "/features/hierarchy-split-calculation"
+      },
+      {
+        "id": "free-look-reversal",
+        "title": "Free-look reversal",
+        "originalPath": "/features/free-look-reversal"
+      },
+      {
+        "id": "producer-dispute-workflow",
+        "title": "Producer dispute workflow",
+        "originalPath": "/features/producer-dispute-workflow"
+      },
+      {
+        "id": "carrier-producer-analytics",
+        "title": "Carrier producer analytics",
+        "originalPath": "/features/carrier-producer-analytics"
+      },
+      {
+        "id": "carrier-and-producer-agreement-library",
+        "title": "Carrier and producer agreement library",
+        "originalPath": "/features/carrier-and-producer-agreement-library"
+      },
+      {
+        "id": "override-and-bonus-calculation",
+        "title": "Override and bonus calculation",
+        "originalPath": "/features/override-and-bonus-calculation"
+      },
+      {
+        "id": "carrier-inquiry-and-dispute",
+        "title": "Carrier inquiry and dispute",
+        "originalPath": "/features/carrier-inquiry-and-dispute"
+      },
+      {
+        "id": "cash-application-and-aging",
+        "title": "Cash application and aging",
+        "originalPath": "/features/cash-application-and-aging"
+      },
+      {
+        "id": "carrier-and-producer-profitability-analytics",
+        "title": "Carrier and producer profitability analytics",
+        "originalPath": "/features/carrier-and-producer-profitability-analytics"
+      },
+      {
+        "id": "owner-officer-exclusion",
+        "title": "Owner officer exclusion",
+        "originalPath": "/features/owner-officer-exclusion"
+      },
+      {
+        "id": "rate-and-factor-calculation",
+        "title": "Rate and factor calculation",
+        "originalPath": "/features/rate-and-factor-calculation"
+      },
+      {
+        "id": "carrier-negotiation-workflow",
+        "title": "Carrier negotiation workflow",
+        "originalPath": "/features/carrier-negotiation-workflow"
+      },
+      {
+        "id": "return-premium-calculation",
+        "title": "Return premium calculation",
+        "originalPath": "/features/return-premium-calculation"
+      },
+      {
+        "id": "commutation-review",
+        "title": "Commutation Review",
+        "originalPath": "/features/commutation-review"
+      },
+      {
+        "id": "agreement-collateral-terms",
+        "title": "Agreement collateral terms",
+        "originalPath": "/features/agreement-collateral-terms"
+      },
+      {
+        "id": "reserve-recoverable-ingestion",
+        "title": "Reserve recoverable ingestion",
+        "originalPath": "/features/reserve-recoverable-ingestion"
+      },
+      {
+        "id": "paid-loss-recoverables",
+        "title": "Paid loss recoverables",
+        "originalPath": "/features/paid-loss-recoverables"
+      },
+      {
+        "id": "required-collateral-calculation",
+        "title": "Required collateral calculation",
+        "originalPath": "/features/required-collateral-calculation"
+      },
+      {
+        "id": "valuation-haircut-calculation",
+        "title": "Valuation haircut calculation",
+        "originalPath": "/features/valuation-haircut-calculation"
+      },
+      {
+        "id": "funds-withheld-balance",
+        "title": "Funds-withheld balance",
+        "originalPath": "/features/funds-withheld-balance"
+      },
+      {
+        "id": "collateral-call-workflow",
+        "title": "Collateral call workflow",
+        "originalPath": "/features/collateral-call-workflow"
+      },
+      {
+        "id": "excess-release-calculation",
+        "title": "Excess release calculation",
+        "originalPath": "/features/excess-release-calculation"
+      },
+      {
+        "id": "treaty-counterparty-analytics",
+        "title": "Treaty counterparty analytics",
+        "originalPath": "/features/treaty-counterparty-analytics"
+      },
+      {
+        "id": "bond-indemnity-library",
+        "title": "Bond indemnity library",
+        "originalPath": "/features/bond-indemnity-library"
+      },
+      {
+        "id": "principal-indemnitor-registry",
+        "title": "Principal indemnitor registry",
+        "originalPath": "/features/principal-indemnitor-registry"
+      },
+      {
+        "id": "loss-adjustment-expense",
+        "title": "Loss adjustment expense",
+        "originalPath": "/features/loss-adjustment-expense"
+      },
+      {
+        "id": "collateral-inventory",
+        "title": "Collateral inventory",
+        "originalPath": "/features/collateral-inventory"
+      },
+      {
+        "id": "collateral-drawdown",
+        "title": "Collateral drawdown",
+        "originalPath": "/features/collateral-drawdown"
+      },
+      {
+        "id": "salvage-asset-tracking",
+        "title": "Salvage asset tracking",
+        "originalPath": "/features/salvage-asset-tracking"
+      },
+      {
+        "id": "co-surety-allocation",
+        "title": "Co-surety allocation",
+        "originalPath": "/features/co-surety-allocation"
+      },
+      {
+        "id": "subrogation-opportunity",
+        "title": "Subrogation opportunity",
+        "originalPath": "/features/subrogation-opportunity"
+      },
+      {
+        "id": "recovery-litigation-workflow",
+        "title": "Recovery litigation workflow",
+        "originalPath": "/features/recovery-litigation-workflow"
+      },
+      {
+        "id": "cash-recovery-ledger",
+        "title": "Cash recovery ledger",
+        "originalPath": "/features/cash-recovery-ledger"
+      },
+      {
+        "id": "bond-principal-analytics",
+        "title": "Bond principal analytics",
+        "originalPath": "/features/bond-principal-analytics"
+      },
+      {
+        "id": "state-title-rate-library",
+        "title": "State title rate library",
+        "originalPath": "/features/state-title-rate-library"
+      },
+      {
+        "id": "transaction-property-registry",
+        "title": "Transaction property registry",
+        "originalPath": "/features/transaction-property-registry"
+      },
+      {
+        "id": "loan-purchase-ingestion",
+        "title": "Loan purchase ingestion",
+        "originalPath": "/features/loan-purchase-ingestion"
+      },
+      {
+        "id": "simultaneous-issue-rate",
+        "title": "Simultaneous issue rate",
+        "originalPath": "/features/simultaneous-issue-rate"
+      },
+      {
+        "id": "closing-disclosure-comparison",
+        "title": "Closing disclosure comparison",
+        "originalPath": "/features/closing-disclosure-comparison"
+      },
+      {
+        "id": "agent-jurisdiction-analytics",
+        "title": "Agent jurisdiction analytics",
+        "originalPath": "/features/agent-jurisdiction-analytics"
+      },
+      {
+        "id": "overdue-notice-preparation",
+        "title": "Overdue notice preparation",
+        "originalPath": "/features/overdue-notice-preparation"
+      },
+      {
+        "id": "insurer-response-summary",
+        "title": "Insurer response summary",
+        "originalPath": "/features/insurer-response-summary"
+      },
+      {
+        "id": "state-account-registry",
+        "title": "State account registry",
+        "originalPath": "/features/state-account-registry"
+      },
+      {
+        "id": "rate-notice-extraction",
+        "title": "Rate notice extraction",
+        "originalPath": "/features/rate-notice-extraction"
+      },
+      {
+        "id": "benefit-charge-statement",
+        "title": "Benefit charge statement",
+        "originalPath": "/features/benefit-charge-statement"
+      },
+      {
+        "id": "experience-rating-calculation",
+        "title": "Experience rating calculation",
+        "originalPath": "/features/experience-rating-calculation"
+      },
+      {
+        "id": "successor-predecessor-transfer",
+        "title": "Successor predecessor transfer",
+        "originalPath": "/features/successor-predecessor-transfer"
+      },
+      {
+        "id": "voluntary-contribution-model",
+        "title": "Voluntary contribution model",
+        "originalPath": "/features/voluntary-contribution-model"
+      },
+      {
+        "id": "rate-protest-deadline",
+        "title": "Rate protest deadline",
+        "originalPath": "/features/rate-protest-deadline"
+      },
+      {
+        "id": "amended-return-workflow",
+        "title": "Amended return workflow",
+        "originalPath": "/features/amended-return-workflow"
+      },
+      {
+        "id": "state-employer-analytics",
+        "title": "State employer analytics",
+        "originalPath": "/features/state-employer-analytics"
+      },
+      {
+        "id": "damage-assessment",
+        "title": "Damage Assessment",
+        "originalPath": "/features/damage-assessment"
+      },
+      {
+        "id": "adjuster-performance",
+        "title": "Adjuster Performance",
+        "originalPath": "/features/adjuster-performance"
+      },
+      {
+        "id": "smart-summary",
+        "title": "Smart Summary",
+        "originalPath": "/features/smart-summary"
+      },
+      {
+        "id": "auto-assign",
+        "title": "Auto-Assign Adjuster",
+        "originalPath": "/features/auto-assign"
+      },
+      {
+        "id": "claims",
+        "title": "Claims",
+        "originalPath": "/features/claims"
+      },
+      {
+        "id": "reserve-estimation",
+        "title": "Reserve Estimation",
+        "originalPath": "/features/reserve-estimation"
+      },
+      {
+        "id": "customer-ltv-retention",
+        "title": "Customer LTV & Retention",
+        "originalPath": "/features/customer-ltv-retention"
+      },
+      {
+        "id": "agentic-claims-triage-auto-routing-by",
+        "title": "agentic claims triage auto routing by",
+        "originalPath": "/features/agentic-claims-triage-auto-routing-by"
+      },
+      {
+        "id": "computer-vision-damage-assessment-from-m",
+        "title": "computer vision damage assessment from m",
+        "originalPath": "/features/computer-vision-damage-assessment-from-m"
+      },
+      {
+        "id": "reserve-estimation-ai",
+        "title": "reserve estimation ai",
+        "originalPath": "/features/reserve-estimation-ai"
+      },
+      {
+        "id": "websocket-real-time-claim-feed",
+        "title": "websocket real time claim feed",
+        "originalPath": "/features/websocket-real-time-claim-feed"
+      },
+      {
+        "id": "claims-processing",
+        "title": "Claims Processing",
+        "originalPath": "/features/claims-processing"
+      },
+      {
+        "id": "evaluate",
+        "title": "AI Evaluate Claim",
+        "originalPath": "/features/evaluate"
+      },
+      {
+        "id": "quote-generator",
+        "title": "AI Quote Generator",
+        "originalPath": "/features/quote-generator"
+      },
+      {
+        "id": "claims-assistant",
+        "title": "Claims Assistant",
+        "originalPath": "/features/claims-assistant"
+      },
+      {
+        "id": "voice-receptionist",
+        "title": "Voice Receptionist",
+        "originalPath": "/features/voice-receptionist"
+      },
+      {
+        "id": "smart-search",
+        "title": "Smart Search",
+        "originalPath": "/features/smart-search"
+      },
+      {
+        "id": "client-summary",
+        "title": "Client Summary",
+        "originalPath": "/features/client-summary"
+      },
+      {
+        "id": "chatbot",
+        "title": "AI Chatbot",
+        "originalPath": "/features/chatbot"
+      },
+      {
+        "id": "ai-suite",
+        "title": "AI Suite (NEW)",
+        "originalPath": "/features/ai-suite"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "historical-revenue-normalization",
+      "advance-and-settlement-tracking",
+      "paid-loss-credit",
+      "letter-of-credit-fee-audit",
+      "trust-asset-reconciliation",
+      "accounting-close-reconciliation",
+      "replacement-cost-calculation",
+      "settlement-reconciliation",
+      "collection-reconciliation",
+      "commission-statement-audit",
+      "payment-reconciliation",
+      "acreage-report-reconciliation",
+      "revenue-protection-calculation",
+      "harvest-price-validation",
+      "replant-payment-calculation",
+      "indemnity-reconciliation",
+      "forensic-vendor-cost-ingestion",
+      "legal-counsel-costs",
+      "regulatory-defense-costs",
+      "new-business-commission",
+      "renewal-commission",
+      "advance-commission-tracking",
+      "cancellation-chargeback",
+      "statement-reconciliation",
+      "cash-payment-reconciliation",
+      "written-premium-reconciliation",
+      "base-commission-calculation",
+      "contingent-commission-forecasting",
+      "cancellation-and-return-commission",
+      "direct-bill-statement-reconciliation",
+      "agency-bill-reconciliation",
+      "missing-commission-detection",
+      "payroll-exposure-ingestion",
+      "subcontractor-cost-review",
+      "refund-reconciliation",
+      "credit-rating-adjustment",
+      "letter-of-credit-tracking",
+      "trust-statement-reconciliation",
+      "accounting-reconciliation",
+      "claim-payment-ingestion",
+      "completion-cost-validation",
+      "principal-reimbursement-demand",
+      "reserve-reconciliation",
+      "reissue-refinance-credit",
+      "search-examination-fee-audit",
+      "recording-fee-reconciliation",
+      "transfer-tax-calculation",
+      "settlement-fee-audit",
+      "refund-package",
+      "credit-claim",
+      "taxable-wage-ingestion",
+      "settlement-recommendation",
+      "payment-analysis",
+      "predictive-settlement-optimization",
+      "predictive-settlement-optimization-model"
+    ],
+    "ai": true,
+    "representativeId": "historical-revenue-normalization",
+    "description": "One assistant for 55 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "historical-revenue-normalization",
+        "title": "Historical revenue normalization",
+        "originalPath": "/features/historical-revenue-normalization"
+      },
+      {
+        "id": "advance-and-settlement-tracking",
+        "title": "Advance and settlement tracking",
+        "originalPath": "/features/advance-and-settlement-tracking"
+      },
+      {
+        "id": "paid-loss-credit",
+        "title": "Paid loss credit",
+        "originalPath": "/features/paid-loss-credit"
+      },
+      {
+        "id": "letter-of-credit-fee-audit",
+        "title": "Letter-of-credit fee audit",
+        "originalPath": "/features/letter-of-credit-fee-audit"
+      },
+      {
+        "id": "trust-asset-reconciliation",
+        "title": "Trust asset reconciliation",
+        "originalPath": "/features/trust-asset-reconciliation"
+      },
+      {
+        "id": "accounting-close-reconciliation",
+        "title": "Accounting close reconciliation",
+        "originalPath": "/features/accounting-close-reconciliation"
+      },
+      {
+        "id": "replacement-cost-calculation",
+        "title": "Replacement-cost calculation",
+        "originalPath": "/features/replacement-cost-calculation"
+      },
+      {
+        "id": "settlement-reconciliation",
+        "title": "Settlement reconciliation",
+        "originalPath": "/features/settlement-reconciliation"
+      },
+      {
+        "id": "collection-reconciliation",
+        "title": "Collection reconciliation",
+        "originalPath": "/features/collection-reconciliation"
+      },
+      {
+        "id": "commission-statement-audit",
+        "title": "Commission statement audit",
+        "originalPath": "/features/commission-statement-audit"
+      },
+      {
+        "id": "payment-reconciliation",
+        "title": "Payment reconciliation",
+        "originalPath": "/features/payment-reconciliation"
+      },
+      {
+        "id": "acreage-report-reconciliation",
+        "title": "Acreage report reconciliation",
+        "originalPath": "/features/acreage-report-reconciliation"
+      },
+      {
+        "id": "revenue-protection-calculation",
+        "title": "Revenue protection calculation",
+        "originalPath": "/features/revenue-protection-calculation"
+      },
+      {
+        "id": "harvest-price-validation",
+        "title": "Harvest price validation",
+        "originalPath": "/features/harvest-price-validation"
+      },
+      {
+        "id": "replant-payment-calculation",
+        "title": "Replant payment calculation",
+        "originalPath": "/features/replant-payment-calculation"
+      },
+      {
+        "id": "indemnity-reconciliation",
+        "title": "Indemnity reconciliation",
+        "originalPath": "/features/indemnity-reconciliation"
+      },
+      {
+        "id": "forensic-vendor-cost-ingestion",
+        "title": "Forensic vendor cost ingestion",
+        "originalPath": "/features/forensic-vendor-cost-ingestion"
+      },
+      {
+        "id": "legal-counsel-costs",
+        "title": "Legal counsel costs",
+        "originalPath": "/features/legal-counsel-costs"
+      },
+      {
+        "id": "regulatory-defense-costs",
+        "title": "Regulatory defense costs",
+        "originalPath": "/features/regulatory-defense-costs"
+      },
+      {
+        "id": "new-business-commission",
+        "title": "New business commission",
+        "originalPath": "/features/new-business-commission"
+      },
+      {
+        "id": "renewal-commission",
+        "title": "Renewal commission",
+        "originalPath": "/features/renewal-commission"
+      },
+      {
+        "id": "advance-commission-tracking",
+        "title": "Advance commission tracking",
+        "originalPath": "/features/advance-commission-tracking"
+      },
+      {
+        "id": "cancellation-chargeback",
+        "title": "Cancellation chargeback",
+        "originalPath": "/features/cancellation-chargeback"
+      },
+      {
+        "id": "statement-reconciliation",
+        "title": "Statement reconciliation",
+        "originalPath": "/features/statement-reconciliation"
+      },
+      {
+        "id": "cash-payment-reconciliation",
+        "title": "Cash payment reconciliation",
+        "originalPath": "/features/cash-payment-reconciliation"
+      },
+      {
+        "id": "written-premium-reconciliation",
+        "title": "Written premium reconciliation",
+        "originalPath": "/features/written-premium-reconciliation"
+      },
+      {
+        "id": "base-commission-calculation",
+        "title": "Base commission calculation",
+        "originalPath": "/features/base-commission-calculation"
+      },
+      {
+        "id": "contingent-commission-forecasting",
+        "title": "Contingent commission forecasting",
+        "originalPath": "/features/contingent-commission-forecasting"
+      },
+      {
+        "id": "cancellation-and-return-commission",
+        "title": "Cancellation and return commission",
+        "originalPath": "/features/cancellation-and-return-commission"
+      },
+      {
+        "id": "direct-bill-statement-reconciliation",
+        "title": "Direct-bill statement reconciliation",
+        "originalPath": "/features/direct-bill-statement-reconciliation"
+      },
+      {
+        "id": "agency-bill-reconciliation",
+        "title": "Agency-bill reconciliation",
+        "originalPath": "/features/agency-bill-reconciliation"
+      },
+      {
+        "id": "missing-commission-detection",
+        "title": "Missing commission detection",
+        "originalPath": "/features/missing-commission-detection"
+      },
+      {
+        "id": "payroll-exposure-ingestion",
+        "title": "Payroll exposure ingestion",
+        "originalPath": "/features/payroll-exposure-ingestion"
+      },
+      {
+        "id": "subcontractor-cost-review",
+        "title": "Subcontractor cost review",
+        "originalPath": "/features/subcontractor-cost-review"
+      },
+      {
+        "id": "refund-reconciliation",
+        "title": "Refund reconciliation",
+        "originalPath": "/features/refund-reconciliation"
+      },
+      {
+        "id": "credit-rating-adjustment",
+        "title": "Credit rating adjustment",
+        "originalPath": "/features/credit-rating-adjustment"
+      },
+      {
+        "id": "letter-of-credit-tracking",
+        "title": "Letter-of-credit tracking",
+        "originalPath": "/features/letter-of-credit-tracking"
+      },
+      {
+        "id": "trust-statement-reconciliation",
+        "title": "Trust statement reconciliation",
+        "originalPath": "/features/trust-statement-reconciliation"
+      },
+      {
+        "id": "accounting-reconciliation",
+        "title": "Accounting reconciliation",
+        "originalPath": "/features/accounting-reconciliation"
+      },
+      {
+        "id": "claim-payment-ingestion",
+        "title": "Claim payment ingestion",
+        "originalPath": "/features/claim-payment-ingestion"
+      },
+      {
+        "id": "completion-cost-validation",
+        "title": "Completion cost validation",
+        "originalPath": "/features/completion-cost-validation"
+      },
+      {
+        "id": "principal-reimbursement-demand",
+        "title": "Principal reimbursement demand",
+        "originalPath": "/features/principal-reimbursement-demand"
+      },
+      {
+        "id": "reserve-reconciliation",
+        "title": "Reserve reconciliation",
+        "originalPath": "/features/reserve-reconciliation"
+      },
+      {
+        "id": "reissue-refinance-credit",
+        "title": "Reissue refinance credit",
+        "originalPath": "/features/reissue-refinance-credit"
+      },
+      {
+        "id": "search-examination-fee-audit",
+        "title": "Search examination fee audit",
+        "originalPath": "/features/search-examination-fee-audit"
+      },
+      {
+        "id": "recording-fee-reconciliation",
+        "title": "Recording fee reconciliation",
+        "originalPath": "/features/recording-fee-reconciliation"
+      },
+      {
+        "id": "transfer-tax-calculation",
+        "title": "Transfer tax calculation",
+        "originalPath": "/features/transfer-tax-calculation"
+      },
+      {
+        "id": "settlement-fee-audit",
+        "title": "Settlement fee audit",
+        "originalPath": "/features/settlement-fee-audit"
+      },
+      {
+        "id": "refund-package",
+        "title": "Refund package",
+        "originalPath": "/features/refund-package"
+      },
+      {
+        "id": "credit-claim",
+        "title": "Credit Claim",
+        "originalPath": "/features/credit-claim"
+      },
+      {
+        "id": "taxable-wage-ingestion",
+        "title": "Taxable wage ingestion",
+        "originalPath": "/features/taxable-wage-ingestion"
+      },
+      {
+        "id": "settlement-recommendation",
+        "title": "Settlement Recommendation",
+        "originalPath": "/features/settlement-recommendation"
+      },
+      {
+        "id": "payment-analysis",
+        "title": "Payment Analysis",
+        "originalPath": "/features/payment-analysis"
+      },
+      {
+        "id": "predictive-settlement-optimization",
+        "title": "Predictive Settlement Optimization",
+        "originalPath": "/features/predictive-settlement-optimization"
+      },
+      {
+        "id": "predictive-settlement-optimization-model",
+        "title": "predictive settlement optimization model",
+        "originalPath": "/features/predictive-settlement-optimization-model"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "lost-sales-forecasting",
+      "sales-exposure-ingestion",
+      "customer-sentiment",
+      "cross-sell",
+      "sentiment-analysis"
+    ],
+    "ai": true,
+    "representativeId": "lost-sales-forecasting",
+    "description": "One assistant for 5 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "lost-sales-forecasting",
+        "title": "Lost-sales forecasting",
+        "originalPath": "/features/lost-sales-forecasting"
+      },
+      {
+        "id": "sales-exposure-ingestion",
+        "title": "Sales exposure ingestion",
+        "originalPath": "/features/sales-exposure-ingestion"
+      },
+      {
+        "id": "customer-sentiment",
+        "title": "Customer Sentiment",
+        "originalPath": "/features/customer-sentiment"
+      },
+      {
+        "id": "cross-sell",
+        "title": "Cross-Sell Recommender",
+        "originalPath": "/features/cross-sell"
+      },
+      {
+        "id": "sentiment-analysis",
+        "title": "Sentiment Analysis",
+        "originalPath": "/features/sentiment-analysis"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "dependent-property-analysis",
+      "civil-authority-analysis",
+      "release-opportunity-detection",
+      "shortage-detection",
+      "temperature-excursion-analysis",
+      "occurrence-definition-analysis",
+      "social-engineering-analysis",
+      "classification-code-library",
+      "former-employee-matching",
+      "ineligible-charge-detection",
+      "joint-account-analysis",
+      "claims-forecasting",
+      "claim-analysis",
+      "customer-analysis",
+      "subrogation-optimizer",
+      "customer-ltv-retention-predicting-post-c",
+      "subrogation-recovery-optimizer",
+      "litigation-outcome-predictor",
+      "loss-ratio",
+      "renewal-optimizer",
+      "suggest",
+      "optimize",
+      "predict",
+      "recommend",
+      "premium-dynamism-recommending-real-time",
+      "renewals-optimization-predicting-likelih",
+      "rule-engine-optimization-recommending-up",
+      "ai-premium-rate-recommender",
+      "renewal-prediction-model",
+      "rule-optimization-analyzer",
+      "coverage-analyzer",
+      "renewal-predictor",
+      "loss-run-analyzer",
+      "endorsement-recommender",
+      "commissions-forecasting"
+    ],
+    "ai": true,
+    "representativeId": "dependent-property-analysis",
+    "description": "One assistant for 35 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "dependent-property-analysis",
+        "title": "Dependent-property analysis",
+        "originalPath": "/features/dependent-property-analysis"
+      },
+      {
+        "id": "civil-authority-analysis",
+        "title": "Civil-authority analysis",
+        "originalPath": "/features/civil-authority-analysis"
+      },
+      {
+        "id": "release-opportunity-detection",
+        "title": "Release opportunity detection",
+        "originalPath": "/features/release-opportunity-detection"
+      },
+      {
+        "id": "shortage-detection",
+        "title": "Shortage detection",
+        "originalPath": "/features/shortage-detection"
+      },
+      {
+        "id": "temperature-excursion-analysis",
+        "title": "Temperature excursion analysis",
+        "originalPath": "/features/temperature-excursion-analysis"
+      },
+      {
+        "id": "occurrence-definition-analysis",
+        "title": "Occurrence definition analysis",
+        "originalPath": "/features/occurrence-definition-analysis"
+      },
+      {
+        "id": "social-engineering-analysis",
+        "title": "Social engineering analysis",
+        "originalPath": "/features/social-engineering-analysis"
+      },
+      {
+        "id": "classification-code-library",
+        "title": "Classification code library",
+        "originalPath": "/features/classification-code-library"
+      },
+      {
+        "id": "former-employee-matching",
+        "title": "Former employee matching",
+        "originalPath": "/features/former-employee-matching"
+      },
+      {
+        "id": "ineligible-charge-detection",
+        "title": "Ineligible charge detection",
+        "originalPath": "/features/ineligible-charge-detection"
+      },
+      {
+        "id": "joint-account-analysis",
+        "title": "Joint account analysis",
+        "originalPath": "/features/joint-account-analysis"
+      },
+      {
+        "id": "claims-forecasting",
+        "title": "Claims Forecasting",
+        "originalPath": "/features/claims-forecasting"
+      },
+      {
+        "id": "claim-analysis",
+        "title": "Claim Analysis",
+        "originalPath": "/features/claim-analysis"
+      },
+      {
+        "id": "customer-analysis",
+        "title": "Customer Analysis",
+        "originalPath": "/features/customer-analysis"
+      },
+      {
+        "id": "subrogation-optimizer",
+        "title": "Subrogation Optimizer",
+        "originalPath": "/features/subrogation-optimizer"
+      },
+      {
+        "id": "customer-ltv-retention-predicting-post-c",
+        "title": "customer ltv retention predicting post c",
+        "originalPath": "/features/customer-ltv-retention-predicting-post-c"
+      },
+      {
+        "id": "subrogation-recovery-optimizer",
+        "title": "subrogation recovery optimizer",
+        "originalPath": "/features/subrogation-recovery-optimizer"
+      },
+      {
+        "id": "litigation-outcome-predictor",
+        "title": "litigation outcome predictor",
+        "originalPath": "/features/litigation-outcome-predictor"
+      },
+      {
+        "id": "loss-ratio",
+        "title": "Loss Ratio Analysis",
+        "originalPath": "/features/loss-ratio"
+      },
+      {
+        "id": "renewal-optimizer",
+        "title": "Renewal Optimizer",
+        "originalPath": "/features/renewal-optimizer"
+      },
+      {
+        "id": "suggest",
+        "title": "AI Suggest Optimization",
+        "originalPath": "/features/suggest"
+      },
+      {
+        "id": "optimize",
+        "title": "AI Optimize Premium",
+        "originalPath": "/features/optimize"
+      },
+      {
+        "id": "predict",
+        "title": "AI Predict Trends",
+        "originalPath": "/features/predict"
+      },
+      {
+        "id": "recommend",
+        "title": "AI Recommend Renewal",
+        "originalPath": "/features/recommend"
+      },
+      {
+        "id": "premium-dynamism-recommending-real-time",
+        "title": "premium dynamism recommending real time",
+        "originalPath": "/features/premium-dynamism-recommending-real-time"
+      },
+      {
+        "id": "renewals-optimization-predicting-likelih",
+        "title": "renewals optimization predicting likelih",
+        "originalPath": "/features/renewals-optimization-predicting-likelih"
+      },
+      {
+        "id": "rule-engine-optimization-recommending-up",
+        "title": "rule engine optimization recommending up",
+        "originalPath": "/features/rule-engine-optimization-recommending-up"
+      },
+      {
+        "id": "ai-premium-rate-recommender",
+        "title": "ai premium rate recommender",
+        "originalPath": "/features/ai-premium-rate-recommender"
+      },
+      {
+        "id": "renewal-prediction-model",
+        "title": "renewal prediction model",
+        "originalPath": "/features/renewal-prediction-model"
+      },
+      {
+        "id": "rule-optimization-analyzer",
+        "title": "rule optimization analyzer",
+        "originalPath": "/features/rule-optimization-analyzer"
+      },
+      {
+        "id": "coverage-analyzer",
+        "title": "Coverage Analyzer",
+        "originalPath": "/features/coverage-analyzer"
+      },
+      {
+        "id": "renewal-predictor",
+        "title": "Renewal Predictor",
+        "originalPath": "/features/renewal-predictor"
+      },
+      {
+        "id": "loss-run-analyzer",
+        "title": "Loss Run Analyzer",
+        "originalPath": "/features/loss-run-analyzer"
+      },
+      {
+        "id": "endorsement-recommender",
+        "title": "Endorsement Recommender",
+        "originalPath": "/features/endorsement-recommender"
+      },
+      {
+        "id": "commissions-forecasting",
+        "title": "Forecasting",
+        "originalPath": "/features/commissions-forecasting"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "production-history"
+    ],
+    "ai": true,
+    "representativeId": "production-history",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "production-history",
+        "title": "Production history",
+        "originalPath": "/features/production-history"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "license-appointment-validation",
+      "commission-schedule-mapping",
+      "adjuster-workload-balancing"
+    ],
+    "ai": true,
+    "representativeId": "license-appointment-validation",
+    "description": "One assistant for 3 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "license-appointment-validation",
+        "title": "License appointment validation",
+        "originalPath": "/features/license-appointment-validation"
+      },
+      {
+        "id": "commission-schedule-mapping",
+        "title": "Commission schedule mapping",
+        "originalPath": "/features/commission-schedule-mapping"
+      },
+      {
+        "id": "adjuster-workload-balancing",
+        "title": "Adjuster Workload Balancing",
+        "originalPath": "/features/adjuster-workload-balancing"
+      }
+    ]
+  }
+]

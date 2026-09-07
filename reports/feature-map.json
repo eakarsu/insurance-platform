@@ -1,0 +1,4632 @@
+{
+  "mapped": [
+    {
+      "project": "ai-business-interruption-claim-recovery",
+      "sourceKey": "policy-endorsement-and-sublimit-library",
+      "source": "/Volumes/external/projects/ai-business-interruption-claim-recovery/app.config.mjs",
+      "canonical": "policy-endorsement-and-sublimit-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-interruption-claim-recovery",
+      "sourceKey": "covered-location-registry",
+      "source": "/Volumes/external/projects/ai-business-interruption-claim-recovery/app.config.mjs",
+      "canonical": "covered-location-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-interruption-claim-recovery",
+      "sourceKey": "loss-event-timeline",
+      "source": "/Volumes/external/projects/ai-business-interruption-claim-recovery/app.config.mjs",
+      "canonical": "loss-event-timeline",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-interruption-claim-recovery",
+      "sourceKey": "physical-damage-evidence",
+      "source": "/Volumes/external/projects/ai-business-interruption-claim-recovery/app.config.mjs",
+      "canonical": "physical-damage-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-interruption-claim-recovery",
+      "sourceKey": "historical-revenue-normalization",
+      "source": "/Volumes/external/projects/ai-business-interruption-claim-recovery/app.config.mjs",
+      "canonical": "historical-revenue-normalization",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-interruption-claim-recovery",
+      "sourceKey": "lost-sales-forecasting",
+      "source": "/Volumes/external/projects/ai-business-interruption-claim-recovery/app.config.mjs",
+      "canonical": "lost-sales-forecasting",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-interruption-claim-recovery",
+      "sourceKey": "saved-expense-calculation",
+      "source": "/Volumes/external/projects/ai-business-interruption-claim-recovery/app.config.mjs",
+      "canonical": "saved-expense-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-interruption-claim-recovery",
+      "sourceKey": "continuing-expense-validation",
+      "source": "/Volumes/external/projects/ai-business-interruption-claim-recovery/app.config.mjs",
+      "canonical": "continuing-expense-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-interruption-claim-recovery",
+      "sourceKey": "extra-expense-calculation",
+      "source": "/Volumes/external/projects/ai-business-interruption-claim-recovery/app.config.mjs",
+      "canonical": "extra-expense-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-interruption-claim-recovery",
+      "sourceKey": "restoration-period-modeling",
+      "source": "/Volumes/external/projects/ai-business-interruption-claim-recovery/app.config.mjs",
+      "canonical": "restoration-period-modeling",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-interruption-claim-recovery",
+      "sourceKey": "dependent-property-analysis",
+      "source": "/Volumes/external/projects/ai-business-interruption-claim-recovery/app.config.mjs",
+      "canonical": "dependent-property-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-interruption-claim-recovery",
+      "sourceKey": "civil-authority-analysis",
+      "source": "/Volumes/external/projects/ai-business-interruption-claim-recovery/app.config.mjs",
+      "canonical": "civil-authority-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-interruption-claim-recovery",
+      "sourceKey": "claim-documentation-package",
+      "source": "/Volumes/external/projects/ai-business-interruption-claim-recovery/app.config.mjs",
+      "canonical": "claim-documentation-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-interruption-claim-recovery",
+      "sourceKey": "insurer-request-workflow",
+      "source": "/Volumes/external/projects/ai-business-interruption-claim-recovery/app.config.mjs",
+      "canonical": "insurer-request-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-interruption-claim-recovery",
+      "sourceKey": "advance-and-settlement-tracking",
+      "source": "/Volumes/external/projects/ai-business-interruption-claim-recovery/app.config.mjs",
+      "canonical": "advance-and-settlement-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-interruption-claim-recovery",
+      "sourceKey": "claim-scenario-analytics",
+      "source": "/Volumes/external/projects/ai-business-interruption-claim-recovery/app.config.mjs",
+      "canonical": "claim-scenario-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-interruption-claim-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-business-interruption-claim-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-business-interruption-claim-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-business-interruption-claim-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-captive-insurance-collateral-reconciliation",
+      "sourceKey": "fronting-agreement-library",
+      "source": "/Volumes/external/projects/ai-captive-insurance-collateral-reconciliation/app.config.mjs",
+      "canonical": "fronting-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-captive-insurance-collateral-reconciliation",
+      "sourceKey": "program-year-registry",
+      "source": "/Volumes/external/projects/ai-captive-insurance-collateral-reconciliation/app.config.mjs",
+      "canonical": "program-year-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-captive-insurance-collateral-reconciliation",
+      "sourceKey": "loss-run-ingestion",
+      "source": "/Volumes/external/projects/ai-captive-insurance-collateral-reconciliation/app.config.mjs",
+      "canonical": "loss-run-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-captive-insurance-collateral-reconciliation",
+      "sourceKey": "case-reserve-validation",
+      "source": "/Volumes/external/projects/ai-captive-insurance-collateral-reconciliation/app.config.mjs",
+      "canonical": "case-reserve-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-captive-insurance-collateral-reconciliation",
+      "sourceKey": "ibnr-methodology",
+      "source": "/Volumes/external/projects/ai-captive-insurance-collateral-reconciliation/app.config.mjs",
+      "canonical": "ibnr-methodology",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-captive-insurance-collateral-reconciliation",
+      "sourceKey": "paid-loss-credit",
+      "source": "/Volumes/external/projects/ai-captive-insurance-collateral-reconciliation/app.config.mjs",
+      "canonical": "paid-loss-credit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-captive-insurance-collateral-reconciliation",
+      "sourceKey": "premium-offset-control",
+      "source": "/Volumes/external/projects/ai-captive-insurance-collateral-reconciliation/app.config.mjs",
+      "canonical": "premium-offset-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-captive-insurance-collateral-reconciliation",
+      "sourceKey": "collateral-formula-calculation",
+      "source": "/Volumes/external/projects/ai-captive-insurance-collateral-reconciliation/app.config.mjs",
+      "canonical": "collateral-formula-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-captive-insurance-collateral-reconciliation",
+      "sourceKey": "instrument-inventory",
+      "source": "/Volumes/external/projects/ai-captive-insurance-collateral-reconciliation/app.config.mjs",
+      "canonical": "instrument-inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-captive-insurance-collateral-reconciliation",
+      "sourceKey": "letter-of-credit-fee-audit",
+      "source": "/Volumes/external/projects/ai-captive-insurance-collateral-reconciliation/app.config.mjs",
+      "canonical": "letter-of-credit-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-captive-insurance-collateral-reconciliation",
+      "sourceKey": "trust-asset-reconciliation",
+      "source": "/Volumes/external/projects/ai-captive-insurance-collateral-reconciliation/app.config.mjs",
+      "canonical": "trust-asset-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-captive-insurance-collateral-reconciliation",
+      "sourceKey": "release-opportunity-detection",
+      "source": "/Volumes/external/projects/ai-captive-insurance-collateral-reconciliation/app.config.mjs",
+      "canonical": "release-opportunity-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-captive-insurance-collateral-reconciliation",
+      "sourceKey": "fronting-carrier-request",
+      "source": "/Volumes/external/projects/ai-captive-insurance-collateral-reconciliation/app.config.mjs",
+      "canonical": "fronting-carrier-request",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-captive-insurance-collateral-reconciliation",
+      "sourceKey": "accounting-close-reconciliation",
+      "source": "/Volumes/external/projects/ai-captive-insurance-collateral-reconciliation/app.config.mjs",
+      "canonical": "accounting-close-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-captive-insurance-collateral-reconciliation",
+      "sourceKey": "program-capital-analytics",
+      "source": "/Volumes/external/projects/ai-captive-insurance-collateral-reconciliation/app.config.mjs",
+      "canonical": "program-capital-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-captive-insurance-collateral-reconciliation",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-captive-insurance-collateral-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-captive-insurance-collateral-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-captive-insurance-collateral-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cargo-loss-damage-claims-recovery",
+      "sourceKey": "carrier-liability-library",
+      "source": "/Volumes/external/projects/ai-cargo-loss-damage-claims-recovery/app.config.mjs",
+      "canonical": "carrier-liability-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cargo-loss-damage-claims-recovery",
+      "sourceKey": "shipment-commodity-registry",
+      "source": "/Volumes/external/projects/ai-cargo-loss-damage-claims-recovery/app.config.mjs",
+      "canonical": "shipment-commodity-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cargo-loss-damage-claims-recovery",
+      "sourceKey": "bill-of-lading-ingestion",
+      "source": "/Volumes/external/projects/ai-cargo-loss-damage-claims-recovery/app.config.mjs",
+      "canonical": "bill-of-lading-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cargo-loss-damage-claims-recovery",
+      "sourceKey": "custody-event-timeline",
+      "source": "/Volumes/external/projects/ai-cargo-loss-damage-claims-recovery/app.config.mjs",
+      "canonical": "custody-event-timeline",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cargo-loss-damage-claims-recovery",
+      "sourceKey": "seal-and-handoff-tracking",
+      "source": "/Volumes/external/projects/ai-cargo-loss-damage-claims-recovery/app.config.mjs",
+      "canonical": "seal-and-handoff-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cargo-loss-damage-claims-recovery",
+      "sourceKey": "shortage-detection",
+      "source": "/Volumes/external/projects/ai-cargo-loss-damage-claims-recovery/app.config.mjs",
+      "canonical": "shortage-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cargo-loss-damage-claims-recovery",
+      "sourceKey": "damage-photo-and-survey-evidence",
+      "source": "/Volumes/external/projects/ai-cargo-loss-damage-claims-recovery/app.config.mjs",
+      "canonical": "damage-photo-and-survey-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cargo-loss-damage-claims-recovery",
+      "sourceKey": "temperature-excursion-analysis",
+      "source": "/Volumes/external/projects/ai-cargo-loss-damage-claims-recovery/app.config.mjs",
+      "canonical": "temperature-excursion-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cargo-loss-damage-claims-recovery",
+      "sourceKey": "salvage-value-management",
+      "source": "/Volumes/external/projects/ai-cargo-loss-damage-claims-recovery/app.config.mjs",
+      "canonical": "salvage-value-management",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cargo-loss-damage-claims-recovery",
+      "sourceKey": "replacement-cost-calculation",
+      "source": "/Volumes/external/projects/ai-cargo-loss-damage-claims-recovery/app.config.mjs",
+      "canonical": "replacement-cost-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cargo-loss-damage-claims-recovery",
+      "sourceKey": "liability-limitation-calculation",
+      "source": "/Volumes/external/projects/ai-cargo-loss-damage-claims-recovery/app.config.mjs",
+      "canonical": "liability-limitation-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cargo-loss-damage-claims-recovery",
+      "sourceKey": "claim-filing-deadline-control",
+      "source": "/Volumes/external/projects/ai-cargo-loss-damage-claims-recovery/app.config.mjs",
+      "canonical": "claim-filing-deadline-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cargo-loss-damage-claims-recovery",
+      "sourceKey": "claim-packet-generation",
+      "source": "/Volumes/external/projects/ai-cargo-loss-damage-claims-recovery/app.config.mjs",
+      "canonical": "claim-packet-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cargo-loss-damage-claims-recovery",
+      "sourceKey": "carrier-response-workflow",
+      "source": "/Volumes/external/projects/ai-cargo-loss-damage-claims-recovery/app.config.mjs",
+      "canonical": "carrier-response-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cargo-loss-damage-claims-recovery",
+      "sourceKey": "settlement-reconciliation",
+      "source": "/Volumes/external/projects/ai-cargo-loss-damage-claims-recovery/app.config.mjs",
+      "canonical": "settlement-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cargo-loss-damage-claims-recovery",
+      "sourceKey": "carrier-commodity-and-lane-analytics",
+      "source": "/Volumes/external/projects/ai-cargo-loss-damage-claims-recovery/app.config.mjs",
+      "canonical": "carrier-commodity-and-lane-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cargo-loss-damage-claims-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-cargo-loss-damage-claims-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cargo-loss-damage-claims-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-cargo-loss-damage-claims-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-catastrophe-reinsurance-recoverable-management",
+      "sourceKey": "catastrophe-event-registry",
+      "source": "/Volumes/external/projects/ai-catastrophe-reinsurance-recoverable-management/app.config.mjs",
+      "canonical": "catastrophe-event-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-catastrophe-reinsurance-recoverable-management",
+      "sourceKey": "claim-loss-ingestion",
+      "source": "/Volumes/external/projects/ai-catastrophe-reinsurance-recoverable-management/app.config.mjs",
+      "canonical": "claim-loss-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-catastrophe-reinsurance-recoverable-management",
+      "sourceKey": "occurrence-definition-analysis",
+      "source": "/Volumes/external/projects/ai-catastrophe-reinsurance-recoverable-management/app.config.mjs",
+      "canonical": "occurrence-definition-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-catastrophe-reinsurance-recoverable-management",
+      "sourceKey": "hours-clause-grouping",
+      "source": "/Volumes/external/projects/ai-catastrophe-reinsurance-recoverable-management/app.config.mjs",
+      "canonical": "hours-clause-grouping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-catastrophe-reinsurance-recoverable-management",
+      "sourceKey": "ultimate-loss-estimate",
+      "source": "/Volumes/external/projects/ai-catastrophe-reinsurance-recoverable-management/app.config.mjs",
+      "canonical": "ultimate-loss-estimate",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-catastrophe-reinsurance-recoverable-management",
+      "sourceKey": "retention-erosion",
+      "source": "/Volumes/external/projects/ai-catastrophe-reinsurance-recoverable-management/app.config.mjs",
+      "canonical": "retention-erosion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-catastrophe-reinsurance-recoverable-management",
+      "sourceKey": "layer-allocation",
+      "source": "/Volumes/external/projects/ai-catastrophe-reinsurance-recoverable-management/app.config.mjs",
+      "canonical": "layer-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-catastrophe-reinsurance-recoverable-management",
+      "sourceKey": "limit-exhaustion",
+      "source": "/Volumes/external/projects/ai-catastrophe-reinsurance-recoverable-management/app.config.mjs",
+      "canonical": "limit-exhaustion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-catastrophe-reinsurance-recoverable-management",
+      "sourceKey": "reinstatement-premium",
+      "source": "/Volumes/external/projects/ai-catastrophe-reinsurance-recoverable-management/app.config.mjs",
+      "canonical": "reinstatement-premium",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-catastrophe-reinsurance-recoverable-management",
+      "sourceKey": "cash-call-calculation",
+      "source": "/Volumes/external/projects/ai-catastrophe-reinsurance-recoverable-management/app.config.mjs",
+      "canonical": "cash-call-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-catastrophe-reinsurance-recoverable-management",
+      "sourceKey": "notice-deadline-control",
+      "source": "/Volumes/external/projects/ai-catastrophe-reinsurance-recoverable-management/app.config.mjs",
+      "canonical": "notice-deadline-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-catastrophe-reinsurance-recoverable-management",
+      "sourceKey": "proof-of-loss-package",
+      "source": "/Volumes/external/projects/ai-catastrophe-reinsurance-recoverable-management/app.config.mjs",
+      "canonical": "proof-of-loss-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-catastrophe-reinsurance-recoverable-management",
+      "sourceKey": "reinsurer-query-workflow",
+      "source": "/Volumes/external/projects/ai-catastrophe-reinsurance-recoverable-management/app.config.mjs",
+      "canonical": "reinsurer-query-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-catastrophe-reinsurance-recoverable-management",
+      "sourceKey": "collection-reconciliation",
+      "source": "/Volumes/external/projects/ai-catastrophe-reinsurance-recoverable-management/app.config.mjs",
+      "canonical": "collection-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-catastrophe-reinsurance-recoverable-management",
+      "sourceKey": "event-tower-analytics",
+      "source": "/Volumes/external/projects/ai-catastrophe-reinsurance-recoverable-management/app.config.mjs",
+      "canonical": "event-tower-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-catastrophe-reinsurance-recoverable-management",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-catastrophe-reinsurance-recoverable-management/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-catastrophe-reinsurance-recoverable-management",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-catastrophe-reinsurance-recoverable-management/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-claims-litigation-early-warning-system",
+      "sourceKey": "ai-claims-litigation-early-warning-system",
+      "source": "/Volumes/external/projects/ai-claims-litigation-early-warning-system",
+      "canonical": "claims-litigation-early-warning-system",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "ai-commercial-insurance-contingent-commission-audit",
+      "sourceKey": "producer-agreement-library",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-contingent-commission-audit/app.config.mjs",
+      "canonical": "producer-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-contingent-commission-audit",
+      "sourceKey": "policy-premium-ingestion",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-contingent-commission-audit/app.config.mjs",
+      "canonical": "policy-premium-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-contingent-commission-audit",
+      "sourceKey": "written-premium-calculation",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-contingent-commission-audit/app.config.mjs",
+      "canonical": "written-premium-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-contingent-commission-audit",
+      "sourceKey": "earned-premium-calculation",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-contingent-commission-audit/app.config.mjs",
+      "canonical": "earned-premium-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-contingent-commission-audit",
+      "sourceKey": "growth-target-validation",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-contingent-commission-audit/app.config.mjs",
+      "canonical": "growth-target-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-contingent-commission-audit",
+      "sourceKey": "retention-ratio-calculation",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-contingent-commission-audit/app.config.mjs",
+      "canonical": "retention-ratio-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-contingent-commission-audit",
+      "sourceKey": "loss-ratio-calculation",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-contingent-commission-audit/app.config.mjs",
+      "canonical": "loss-ratio-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-contingent-commission-audit",
+      "sourceKey": "profitability-corridor",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-contingent-commission-audit/app.config.mjs",
+      "canonical": "profitability-corridor",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-contingent-commission-audit",
+      "sourceKey": "tier-and-hurdle-calculation",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-contingent-commission-audit/app.config.mjs",
+      "canonical": "tier-and-hurdle-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-contingent-commission-audit",
+      "sourceKey": "acquisition-exclusion-control",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-contingent-commission-audit/app.config.mjs",
+      "canonical": "acquisition-exclusion-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-contingent-commission-audit",
+      "sourceKey": "commission-statement-audit",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-contingent-commission-audit/app.config.mjs",
+      "canonical": "commission-statement-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-contingent-commission-audit",
+      "sourceKey": "carrier-claim-package",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-contingent-commission-audit/app.config.mjs",
+      "canonical": "carrier-claim-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-contingent-commission-audit",
+      "sourceKey": "payment-reconciliation",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-contingent-commission-audit/app.config.mjs",
+      "canonical": "payment-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-contingent-commission-audit",
+      "sourceKey": "producer-allocation",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-contingent-commission-audit/app.config.mjs",
+      "canonical": "producer-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-contingent-commission-audit",
+      "sourceKey": "carrier-segment-analytics",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-contingent-commission-audit/app.config.mjs",
+      "canonical": "carrier-segment-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-contingent-commission-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-contingent-commission-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-contingent-commission-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-contingent-commission-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-premium-audit",
+      "sourceKey": "commercial-extension",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-premium-audit/frontend/src/App.jsx",
+      "canonical": "commercial-extension",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-premium-audit",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-premium-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-premium-audit",
+      "sourceKey": "queue",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-premium-audit/frontend/src/App.jsx",
+      "canonical": "queue",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-premium-audit",
+      "sourceKey": "evidence",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-premium-audit/frontend/src/App.jsx",
+      "canonical": "evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-premium-audit",
+      "sourceKey": "reconciliation",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-premium-audit/frontend/src/App.jsx",
+      "canonical": "reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-premium-audit",
+      "sourceKey": "premium",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-premium-audit/frontend/src/App.jsx",
+      "canonical": "premium",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-premium-audit",
+      "sourceKey": "disputes",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-premium-audit/frontend/src/App.jsx",
+      "canonical": "disputes",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-premium-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-premium-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-commercial-insurance-premium-audit",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-premium-audit/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-crop-insurance-claim-recovery",
+      "sourceKey": "farm-unit-acreage-registry",
+      "source": "/Volumes/external/projects/ai-crop-insurance-claim-recovery/app.config.mjs",
+      "canonical": "farm-unit-acreage-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-crop-insurance-claim-recovery",
+      "sourceKey": "policy-endorsement-library",
+      "source": "/Volumes/external/projects/ai-crop-insurance-claim-recovery/app.config.mjs",
+      "canonical": "policy-endorsement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-crop-insurance-claim-recovery",
+      "sourceKey": "acreage-report-reconciliation",
+      "source": "/Volumes/external/projects/ai-crop-insurance-claim-recovery/app.config.mjs",
+      "canonical": "acreage-report-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-crop-insurance-claim-recovery",
+      "sourceKey": "production-history",
+      "source": "/Volumes/external/projects/ai-crop-insurance-claim-recovery/app.config.mjs",
+      "canonical": "production-history",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-crop-insurance-claim-recovery",
+      "sourceKey": "harvest-scale-ticket-ingestion",
+      "source": "/Volumes/external/projects/ai-crop-insurance-claim-recovery/app.config.mjs",
+      "canonical": "harvest-scale-ticket-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-crop-insurance-claim-recovery",
+      "sourceKey": "yield-loss-calculation",
+      "source": "/Volumes/external/projects/ai-crop-insurance-claim-recovery/app.config.mjs",
+      "canonical": "yield-loss-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-crop-insurance-claim-recovery",
+      "sourceKey": "revenue-protection-calculation",
+      "source": "/Volumes/external/projects/ai-crop-insurance-claim-recovery/app.config.mjs",
+      "canonical": "revenue-protection-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-crop-insurance-claim-recovery",
+      "sourceKey": "harvest-price-validation",
+      "source": "/Volumes/external/projects/ai-crop-insurance-claim-recovery/app.config.mjs",
+      "canonical": "harvest-price-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-crop-insurance-claim-recovery",
+      "sourceKey": "prevented-planting-eligibility",
+      "source": "/Volumes/external/projects/ai-crop-insurance-claim-recovery/app.config.mjs",
+      "canonical": "prevented-planting-eligibility",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-crop-insurance-claim-recovery",
+      "sourceKey": "replant-payment-calculation",
+      "source": "/Volumes/external/projects/ai-crop-insurance-claim-recovery/app.config.mjs",
+      "canonical": "replant-payment-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-crop-insurance-claim-recovery",
+      "sourceKey": "quality-adjustment",
+      "source": "/Volumes/external/projects/ai-crop-insurance-claim-recovery/app.config.mjs",
+      "canonical": "quality-adjustment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-crop-insurance-claim-recovery",
+      "sourceKey": "notice-of-loss-deadline",
+      "source": "/Volumes/external/projects/ai-crop-insurance-claim-recovery/app.config.mjs",
+      "canonical": "notice-of-loss-deadline",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-crop-insurance-claim-recovery",
+      "sourceKey": "adjuster-evidence-package",
+      "source": "/Volumes/external/projects/ai-crop-insurance-claim-recovery/app.config.mjs",
+      "canonical": "adjuster-evidence-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-crop-insurance-claim-recovery",
+      "sourceKey": "indemnity-reconciliation",
+      "source": "/Volumes/external/projects/ai-crop-insurance-claim-recovery/app.config.mjs",
+      "canonical": "indemnity-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-crop-insurance-claim-recovery",
+      "sourceKey": "crop-county-peril-analytics",
+      "source": "/Volumes/external/projects/ai-crop-insurance-claim-recovery/app.config.mjs",
+      "canonical": "crop-county-peril-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-crop-insurance-claim-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-crop-insurance-claim-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-crop-insurance-claim-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-crop-insurance-claim-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cyber-insurance-incident-claim-recovery",
+      "sourceKey": "policy-endorsement-library",
+      "source": "/Volumes/external/projects/ai-cyber-insurance-incident-claim-recovery/app.config.mjs",
+      "canonical": "policy-endorsement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cyber-insurance-incident-claim-recovery",
+      "sourceKey": "incident-timeline",
+      "source": "/Volumes/external/projects/ai-cyber-insurance-incident-claim-recovery/app.config.mjs",
+      "canonical": "incident-timeline",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cyber-insurance-incident-claim-recovery",
+      "sourceKey": "notification-deadline-control",
+      "source": "/Volumes/external/projects/ai-cyber-insurance-incident-claim-recovery/app.config.mjs",
+      "canonical": "notification-deadline-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cyber-insurance-incident-claim-recovery",
+      "sourceKey": "forensic-vendor-cost-ingestion",
+      "source": "/Volumes/external/projects/ai-cyber-insurance-incident-claim-recovery/app.config.mjs",
+      "canonical": "forensic-vendor-cost-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cyber-insurance-incident-claim-recovery",
+      "sourceKey": "legal-counsel-costs",
+      "source": "/Volumes/external/projects/ai-cyber-insurance-incident-claim-recovery/app.config.mjs",
+      "canonical": "legal-counsel-costs",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cyber-insurance-incident-claim-recovery",
+      "sourceKey": "notification-monitoring-expense",
+      "source": "/Volumes/external/projects/ai-cyber-insurance-incident-claim-recovery/app.config.mjs",
+      "canonical": "notification-monitoring-expense",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cyber-insurance-incident-claim-recovery",
+      "sourceKey": "data-restoration-expense",
+      "source": "/Volumes/external/projects/ai-cyber-insurance-incident-claim-recovery/app.config.mjs",
+      "canonical": "data-restoration-expense",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cyber-insurance-incident-claim-recovery",
+      "sourceKey": "business-interruption-calculation",
+      "source": "/Volumes/external/projects/ai-cyber-insurance-incident-claim-recovery/app.config.mjs",
+      "canonical": "business-interruption-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cyber-insurance-incident-claim-recovery",
+      "sourceKey": "cyber-extortion-expense",
+      "source": "/Volumes/external/projects/ai-cyber-insurance-incident-claim-recovery/app.config.mjs",
+      "canonical": "cyber-extortion-expense",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cyber-insurance-incident-claim-recovery",
+      "sourceKey": "regulatory-defense-costs",
+      "source": "/Volumes/external/projects/ai-cyber-insurance-incident-claim-recovery/app.config.mjs",
+      "canonical": "regulatory-defense-costs",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cyber-insurance-incident-claim-recovery",
+      "sourceKey": "social-engineering-analysis",
+      "source": "/Volumes/external/projects/ai-cyber-insurance-incident-claim-recovery/app.config.mjs",
+      "canonical": "social-engineering-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cyber-insurance-incident-claim-recovery",
+      "sourceKey": "consent-panel-vendor-control",
+      "source": "/Volumes/external/projects/ai-cyber-insurance-incident-claim-recovery/app.config.mjs",
+      "canonical": "consent-panel-vendor-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cyber-insurance-incident-claim-recovery",
+      "sourceKey": "proof-of-loss-package",
+      "source": "/Volumes/external/projects/ai-cyber-insurance-incident-claim-recovery/app.config.mjs",
+      "canonical": "proof-of-loss-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cyber-insurance-incident-claim-recovery",
+      "sourceKey": "insurer-request-workflow",
+      "source": "/Volumes/external/projects/ai-cyber-insurance-incident-claim-recovery/app.config.mjs",
+      "canonical": "insurer-request-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cyber-insurance-incident-claim-recovery",
+      "sourceKey": "settlement-reconciliation",
+      "source": "/Volumes/external/projects/ai-cyber-insurance-incident-claim-recovery/app.config.mjs",
+      "canonical": "settlement-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cyber-insurance-incident-claim-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-cyber-insurance-incident-claim-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cyber-insurance-incident-claim-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-cyber-insurance-incident-claim-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-agent-commission-chargeback-reconciliation",
+      "sourceKey": "producer-contract-library",
+      "source": "/Volumes/external/projects/ai-insurance-agent-commission-chargeback-reconciliation/app.config.mjs",
+      "canonical": "producer-contract-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-agent-commission-chargeback-reconciliation",
+      "sourceKey": "license-appointment-validation",
+      "source": "/Volumes/external/projects/ai-insurance-agent-commission-chargeback-reconciliation/app.config.mjs",
+      "canonical": "license-appointment-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-agent-commission-chargeback-reconciliation",
+      "sourceKey": "policy-premium-ingestion",
+      "source": "/Volumes/external/projects/ai-insurance-agent-commission-chargeback-reconciliation/app.config.mjs",
+      "canonical": "policy-premium-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-agent-commission-chargeback-reconciliation",
+      "sourceKey": "commission-schedule-mapping",
+      "source": "/Volumes/external/projects/ai-insurance-agent-commission-chargeback-reconciliation/app.config.mjs",
+      "canonical": "commission-schedule-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-agent-commission-chargeback-reconciliation",
+      "sourceKey": "hierarchy-split-calculation",
+      "source": "/Volumes/external/projects/ai-insurance-agent-commission-chargeback-reconciliation/app.config.mjs",
+      "canonical": "hierarchy-split-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-agent-commission-chargeback-reconciliation",
+      "sourceKey": "new-business-commission",
+      "source": "/Volumes/external/projects/ai-insurance-agent-commission-chargeback-reconciliation/app.config.mjs",
+      "canonical": "new-business-commission",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-agent-commission-chargeback-reconciliation",
+      "sourceKey": "renewal-commission",
+      "source": "/Volumes/external/projects/ai-insurance-agent-commission-chargeback-reconciliation/app.config.mjs",
+      "canonical": "renewal-commission",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-agent-commission-chargeback-reconciliation",
+      "sourceKey": "advance-commission-tracking",
+      "source": "/Volumes/external/projects/ai-insurance-agent-commission-chargeback-reconciliation/app.config.mjs",
+      "canonical": "advance-commission-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-agent-commission-chargeback-reconciliation",
+      "sourceKey": "cancellation-chargeback",
+      "source": "/Volumes/external/projects/ai-insurance-agent-commission-chargeback-reconciliation/app.config.mjs",
+      "canonical": "cancellation-chargeback",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-agent-commission-chargeback-reconciliation",
+      "sourceKey": "free-look-reversal",
+      "source": "/Volumes/external/projects/ai-insurance-agent-commission-chargeback-reconciliation/app.config.mjs",
+      "canonical": "free-look-reversal",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-agent-commission-chargeback-reconciliation",
+      "sourceKey": "replacement-policy-control",
+      "source": "/Volumes/external/projects/ai-insurance-agent-commission-chargeback-reconciliation/app.config.mjs",
+      "canonical": "replacement-policy-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-agent-commission-chargeback-reconciliation",
+      "sourceKey": "statement-reconciliation",
+      "source": "/Volumes/external/projects/ai-insurance-agent-commission-chargeback-reconciliation/app.config.mjs",
+      "canonical": "statement-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-agent-commission-chargeback-reconciliation",
+      "sourceKey": "producer-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-insurance-agent-commission-chargeback-reconciliation/app.config.mjs",
+      "canonical": "producer-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-agent-commission-chargeback-reconciliation",
+      "sourceKey": "cash-payment-reconciliation",
+      "source": "/Volumes/external/projects/ai-insurance-agent-commission-chargeback-reconciliation/app.config.mjs",
+      "canonical": "cash-payment-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-agent-commission-chargeback-reconciliation",
+      "sourceKey": "carrier-producer-analytics",
+      "source": "/Volumes/external/projects/ai-insurance-agent-commission-chargeback-reconciliation/app.config.mjs",
+      "canonical": "carrier-producer-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-agent-commission-chargeback-reconciliation",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-insurance-agent-commission-chargeback-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-agent-commission-chargeback-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-insurance-agent-commission-chargeback-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-broker-commission-reconciliation",
+      "sourceKey": "carrier-and-producer-agreement-library",
+      "source": "/Volumes/external/projects/ai-insurance-broker-commission-reconciliation/app.config.mjs",
+      "canonical": "carrier-and-producer-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-broker-commission-reconciliation",
+      "sourceKey": "policy-and-endorsement-ingestion",
+      "source": "/Volumes/external/projects/ai-insurance-broker-commission-reconciliation/app.config.mjs",
+      "canonical": "policy-and-endorsement-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-broker-commission-reconciliation",
+      "sourceKey": "written-premium-reconciliation",
+      "source": "/Volumes/external/projects/ai-insurance-broker-commission-reconciliation/app.config.mjs",
+      "canonical": "written-premium-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-broker-commission-reconciliation",
+      "sourceKey": "earned-premium-calculation",
+      "source": "/Volumes/external/projects/ai-insurance-broker-commission-reconciliation/app.config.mjs",
+      "canonical": "earned-premium-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-broker-commission-reconciliation",
+      "sourceKey": "base-commission-calculation",
+      "source": "/Volumes/external/projects/ai-insurance-broker-commission-reconciliation/app.config.mjs",
+      "canonical": "base-commission-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-broker-commission-reconciliation",
+      "sourceKey": "override-and-bonus-calculation",
+      "source": "/Volumes/external/projects/ai-insurance-broker-commission-reconciliation/app.config.mjs",
+      "canonical": "override-and-bonus-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-broker-commission-reconciliation",
+      "sourceKey": "contingent-commission-forecasting",
+      "source": "/Volumes/external/projects/ai-insurance-broker-commission-reconciliation/app.config.mjs",
+      "canonical": "contingent-commission-forecasting",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-broker-commission-reconciliation",
+      "sourceKey": "cancellation-and-return-commission",
+      "source": "/Volumes/external/projects/ai-insurance-broker-commission-reconciliation/app.config.mjs",
+      "canonical": "cancellation-and-return-commission",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-broker-commission-reconciliation",
+      "sourceKey": "producer-split-validation",
+      "source": "/Volumes/external/projects/ai-insurance-broker-commission-reconciliation/app.config.mjs",
+      "canonical": "producer-split-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-broker-commission-reconciliation",
+      "sourceKey": "direct-bill-statement-reconciliation",
+      "source": "/Volumes/external/projects/ai-insurance-broker-commission-reconciliation/app.config.mjs",
+      "canonical": "direct-bill-statement-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-broker-commission-reconciliation",
+      "sourceKey": "agency-bill-reconciliation",
+      "source": "/Volumes/external/projects/ai-insurance-broker-commission-reconciliation/app.config.mjs",
+      "canonical": "agency-bill-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-broker-commission-reconciliation",
+      "sourceKey": "missing-commission-detection",
+      "source": "/Volumes/external/projects/ai-insurance-broker-commission-reconciliation/app.config.mjs",
+      "canonical": "missing-commission-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-broker-commission-reconciliation",
+      "sourceKey": "carrier-inquiry-and-dispute",
+      "source": "/Volumes/external/projects/ai-insurance-broker-commission-reconciliation/app.config.mjs",
+      "canonical": "carrier-inquiry-and-dispute",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-broker-commission-reconciliation",
+      "sourceKey": "cash-application-and-aging",
+      "source": "/Volumes/external/projects/ai-insurance-broker-commission-reconciliation/app.config.mjs",
+      "canonical": "cash-application-and-aging",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-broker-commission-reconciliation",
+      "sourceKey": "carrier-and-producer-profitability-analytics",
+      "source": "/Volumes/external/projects/ai-insurance-broker-commission-reconciliation/app.config.mjs",
+      "canonical": "carrier-and-producer-profitability-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-broker-commission-reconciliation",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-insurance-broker-commission-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-broker-commission-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-insurance-broker-commission-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-product-form-filing",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-insurance-product-form-filing/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-product-form-filing",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-insurance-product-form-filing/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-insurance-product-form-filing",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-insurance-product-form-filing/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-premium-audit-return-premium-recovery",
+      "sourceKey": "policy-exposure-terms",
+      "source": "/Volumes/external/projects/ai-premium-audit-return-premium-recovery/app.config.mjs",
+      "canonical": "policy-exposure-terms",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-premium-audit-return-premium-recovery",
+      "sourceKey": "classification-code-library",
+      "source": "/Volumes/external/projects/ai-premium-audit-return-premium-recovery/app.config.mjs",
+      "canonical": "classification-code-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-premium-audit-return-premium-recovery",
+      "sourceKey": "payroll-exposure-ingestion",
+      "source": "/Volumes/external/projects/ai-premium-audit-return-premium-recovery/app.config.mjs",
+      "canonical": "payroll-exposure-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-premium-audit-return-premium-recovery",
+      "sourceKey": "sales-exposure-ingestion",
+      "source": "/Volumes/external/projects/ai-premium-audit-return-premium-recovery/app.config.mjs",
+      "canonical": "sales-exposure-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-premium-audit-return-premium-recovery",
+      "sourceKey": "subcontractor-cost-review",
+      "source": "/Volumes/external/projects/ai-premium-audit-return-premium-recovery/app.config.mjs",
+      "canonical": "subcontractor-cost-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-premium-audit-return-premium-recovery",
+      "sourceKey": "certificate-validation",
+      "source": "/Volumes/external/projects/ai-premium-audit-return-premium-recovery/app.config.mjs",
+      "canonical": "certificate-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-premium-audit-return-premium-recovery",
+      "sourceKey": "owner-officer-exclusion",
+      "source": "/Volumes/external/projects/ai-premium-audit-return-premium-recovery/app.config.mjs",
+      "canonical": "owner-officer-exclusion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-premium-audit-return-premium-recovery",
+      "sourceKey": "experience-modification-control",
+      "source": "/Volumes/external/projects/ai-premium-audit-return-premium-recovery/app.config.mjs",
+      "canonical": "experience-modification-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-premium-audit-return-premium-recovery",
+      "sourceKey": "rate-and-factor-calculation",
+      "source": "/Volumes/external/projects/ai-premium-audit-return-premium-recovery/app.config.mjs",
+      "canonical": "rate-and-factor-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-premium-audit-return-premium-recovery",
+      "sourceKey": "audit-worksheet-reconstruction",
+      "source": "/Volumes/external/projects/ai-premium-audit-return-premium-recovery/app.config.mjs",
+      "canonical": "audit-worksheet-reconstruction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-premium-audit-return-premium-recovery",
+      "sourceKey": "dispute-evidence-package",
+      "source": "/Volumes/external/projects/ai-premium-audit-return-premium-recovery/app.config.mjs",
+      "canonical": "dispute-evidence-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-premium-audit-return-premium-recovery",
+      "sourceKey": "carrier-negotiation-workflow",
+      "source": "/Volumes/external/projects/ai-premium-audit-return-premium-recovery/app.config.mjs",
+      "canonical": "carrier-negotiation-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-premium-audit-return-premium-recovery",
+      "sourceKey": "return-premium-calculation",
+      "source": "/Volumes/external/projects/ai-premium-audit-return-premium-recovery/app.config.mjs",
+      "canonical": "return-premium-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-premium-audit-return-premium-recovery",
+      "sourceKey": "refund-reconciliation",
+      "source": "/Volumes/external/projects/ai-premium-audit-return-premium-recovery/app.config.mjs",
+      "canonical": "refund-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-premium-audit-return-premium-recovery",
+      "sourceKey": "policy-class-analytics",
+      "source": "/Volumes/external/projects/ai-premium-audit-return-premium-recovery/app.config.mjs",
+      "canonical": "policy-class-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-premium-audit-return-premium-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-premium-audit-return-premium-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-premium-audit-return-premium-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-premium-audit-return-premium-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "/treaties",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/src/config/app.ts",
+      "canonical": "treaties",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "/bordereaux",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/src/config/app.ts",
+      "canonical": "bordereaux",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "/ceded",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/src/config/app.ts",
+      "canonical": "ceded",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "/credit",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/src/config/app.ts",
+      "canonical": "credit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "Treaty",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/src/config/app.ts",
+      "canonical": "treaty",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "BordereauRecord",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/src/config/app.ts",
+      "canonical": "bordereau-record",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "CededPremium",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/src/config/app.ts",
+      "canonical": "ceded-premium",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "LossRecoverable",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/src/config/app.ts",
+      "canonical": "loss-recoverable",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "CashCall",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/src/config/app.ts",
+      "canonical": "cash-call",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "CollateralPosition",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/src/config/app.ts",
+      "canonical": "collateral-position",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "CommutationReview",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/src/config/app.ts",
+      "canonical": "commutation-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "ScheduleFEntry",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/src/config/app.ts",
+      "canonical": "schedule-fentry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "ReinsurerCounterparty",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/src/config/app.ts",
+      "canonical": "reinsurer-counterparty",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "DiscrepancyCase",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/src/config/app.ts",
+      "canonical": "discrepancy-case",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "SettlementPayment",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/src/config/app.ts",
+      "canonical": "settlement-payment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "TreatyTerm",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/src/config/app.ts",
+      "canonical": "treaty-term",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "bordereau-validate",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/src/config/app.ts",
+      "canonical": "bordereau-validate",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "recoverable-calc",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/src/config/app.ts",
+      "canonical": "recoverable-calc",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "sourceKey": "collateral-gap",
+      "source": "/Volumes/external/projects/ai-reinsurance-bordereaux-treaty-reconciliation/src/config/app.ts",
+      "canonical": "collateral-gap",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-collateral-trust-funding-reconciliation",
+      "sourceKey": "agreement-collateral-terms",
+      "source": "/Volumes/external/projects/ai-reinsurance-collateral-trust-funding-reconciliation/app.config.mjs",
+      "canonical": "agreement-collateral-terms",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-collateral-trust-funding-reconciliation",
+      "sourceKey": "reserve-recoverable-ingestion",
+      "source": "/Volumes/external/projects/ai-reinsurance-collateral-trust-funding-reconciliation/app.config.mjs",
+      "canonical": "reserve-recoverable-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-collateral-trust-funding-reconciliation",
+      "sourceKey": "paid-loss-recoverables",
+      "source": "/Volumes/external/projects/ai-reinsurance-collateral-trust-funding-reconciliation/app.config.mjs",
+      "canonical": "paid-loss-recoverables",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-collateral-trust-funding-reconciliation",
+      "sourceKey": "required-collateral-calculation",
+      "source": "/Volumes/external/projects/ai-reinsurance-collateral-trust-funding-reconciliation/app.config.mjs",
+      "canonical": "required-collateral-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-collateral-trust-funding-reconciliation",
+      "sourceKey": "asset-eligibility-review",
+      "source": "/Volumes/external/projects/ai-reinsurance-collateral-trust-funding-reconciliation/app.config.mjs",
+      "canonical": "asset-eligibility-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-collateral-trust-funding-reconciliation",
+      "sourceKey": "valuation-haircut-calculation",
+      "source": "/Volumes/external/projects/ai-reinsurance-collateral-trust-funding-reconciliation/app.config.mjs",
+      "canonical": "valuation-haircut-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-collateral-trust-funding-reconciliation",
+      "sourceKey": "credit-rating-adjustment",
+      "source": "/Volumes/external/projects/ai-reinsurance-collateral-trust-funding-reconciliation/app.config.mjs",
+      "canonical": "credit-rating-adjustment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-collateral-trust-funding-reconciliation",
+      "sourceKey": "letter-of-credit-tracking",
+      "source": "/Volumes/external/projects/ai-reinsurance-collateral-trust-funding-reconciliation/app.config.mjs",
+      "canonical": "letter-of-credit-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-collateral-trust-funding-reconciliation",
+      "sourceKey": "trust-statement-reconciliation",
+      "source": "/Volumes/external/projects/ai-reinsurance-collateral-trust-funding-reconciliation/app.config.mjs",
+      "canonical": "trust-statement-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-collateral-trust-funding-reconciliation",
+      "sourceKey": "funds-withheld-balance",
+      "source": "/Volumes/external/projects/ai-reinsurance-collateral-trust-funding-reconciliation/app.config.mjs",
+      "canonical": "funds-withheld-balance",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-collateral-trust-funding-reconciliation",
+      "sourceKey": "collateral-call-workflow",
+      "source": "/Volumes/external/projects/ai-reinsurance-collateral-trust-funding-reconciliation/app.config.mjs",
+      "canonical": "collateral-call-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-collateral-trust-funding-reconciliation",
+      "sourceKey": "excess-release-calculation",
+      "source": "/Volumes/external/projects/ai-reinsurance-collateral-trust-funding-reconciliation/app.config.mjs",
+      "canonical": "excess-release-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-collateral-trust-funding-reconciliation",
+      "sourceKey": "counterparty-dispute-evidence",
+      "source": "/Volumes/external/projects/ai-reinsurance-collateral-trust-funding-reconciliation/app.config.mjs",
+      "canonical": "counterparty-dispute-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-collateral-trust-funding-reconciliation",
+      "sourceKey": "accounting-reconciliation",
+      "source": "/Volumes/external/projects/ai-reinsurance-collateral-trust-funding-reconciliation/app.config.mjs",
+      "canonical": "accounting-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-collateral-trust-funding-reconciliation",
+      "sourceKey": "treaty-counterparty-analytics",
+      "source": "/Volumes/external/projects/ai-reinsurance-collateral-trust-funding-reconciliation/app.config.mjs",
+      "canonical": "treaty-counterparty-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-collateral-trust-funding-reconciliation",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-reinsurance-collateral-trust-funding-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reinsurance-collateral-trust-funding-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-reinsurance-collateral-trust-funding-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-surety-bond-claim-indemnity-recovery",
+      "sourceKey": "bond-indemnity-library",
+      "source": "/Volumes/external/projects/ai-surety-bond-claim-indemnity-recovery/app.config.mjs",
+      "canonical": "bond-indemnity-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-surety-bond-claim-indemnity-recovery",
+      "sourceKey": "principal-indemnitor-registry",
+      "source": "/Volumes/external/projects/ai-surety-bond-claim-indemnity-recovery/app.config.mjs",
+      "canonical": "principal-indemnitor-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-surety-bond-claim-indemnity-recovery",
+      "sourceKey": "claim-payment-ingestion",
+      "source": "/Volumes/external/projects/ai-surety-bond-claim-indemnity-recovery/app.config.mjs",
+      "canonical": "claim-payment-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-surety-bond-claim-indemnity-recovery",
+      "sourceKey": "completion-cost-validation",
+      "source": "/Volumes/external/projects/ai-surety-bond-claim-indemnity-recovery/app.config.mjs",
+      "canonical": "completion-cost-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-surety-bond-claim-indemnity-recovery",
+      "sourceKey": "loss-adjustment-expense",
+      "source": "/Volumes/external/projects/ai-surety-bond-claim-indemnity-recovery/app.config.mjs",
+      "canonical": "loss-adjustment-expense",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-surety-bond-claim-indemnity-recovery",
+      "sourceKey": "collateral-inventory",
+      "source": "/Volumes/external/projects/ai-surety-bond-claim-indemnity-recovery/app.config.mjs",
+      "canonical": "collateral-inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-surety-bond-claim-indemnity-recovery",
+      "sourceKey": "collateral-drawdown",
+      "source": "/Volumes/external/projects/ai-surety-bond-claim-indemnity-recovery/app.config.mjs",
+      "canonical": "collateral-drawdown",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-surety-bond-claim-indemnity-recovery",
+      "sourceKey": "salvage-asset-tracking",
+      "source": "/Volumes/external/projects/ai-surety-bond-claim-indemnity-recovery/app.config.mjs",
+      "canonical": "salvage-asset-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-surety-bond-claim-indemnity-recovery",
+      "sourceKey": "principal-reimbursement-demand",
+      "source": "/Volumes/external/projects/ai-surety-bond-claim-indemnity-recovery/app.config.mjs",
+      "canonical": "principal-reimbursement-demand",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-surety-bond-claim-indemnity-recovery",
+      "sourceKey": "co-surety-allocation",
+      "source": "/Volumes/external/projects/ai-surety-bond-claim-indemnity-recovery/app.config.mjs",
+      "canonical": "co-surety-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-surety-bond-claim-indemnity-recovery",
+      "sourceKey": "subrogation-opportunity",
+      "source": "/Volumes/external/projects/ai-surety-bond-claim-indemnity-recovery/app.config.mjs",
+      "canonical": "subrogation-opportunity",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-surety-bond-claim-indemnity-recovery",
+      "sourceKey": "recovery-litigation-workflow",
+      "source": "/Volumes/external/projects/ai-surety-bond-claim-indemnity-recovery/app.config.mjs",
+      "canonical": "recovery-litigation-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-surety-bond-claim-indemnity-recovery",
+      "sourceKey": "cash-recovery-ledger",
+      "source": "/Volumes/external/projects/ai-surety-bond-claim-indemnity-recovery/app.config.mjs",
+      "canonical": "cash-recovery-ledger",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-surety-bond-claim-indemnity-recovery",
+      "sourceKey": "reserve-reconciliation",
+      "source": "/Volumes/external/projects/ai-surety-bond-claim-indemnity-recovery/app.config.mjs",
+      "canonical": "reserve-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-surety-bond-claim-indemnity-recovery",
+      "sourceKey": "bond-principal-analytics",
+      "source": "/Volumes/external/projects/ai-surety-bond-claim-indemnity-recovery/app.config.mjs",
+      "canonical": "bond-principal-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-surety-bond-claim-indemnity-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-surety-bond-claim-indemnity-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-surety-bond-claim-indemnity-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-surety-bond-claim-indemnity-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-title-insurance-closing-fee-audit",
+      "sourceKey": "state-title-rate-library",
+      "source": "/Volumes/external/projects/ai-title-insurance-closing-fee-audit/app.config.mjs",
+      "canonical": "state-title-rate-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-title-insurance-closing-fee-audit",
+      "sourceKey": "transaction-property-registry",
+      "source": "/Volumes/external/projects/ai-title-insurance-closing-fee-audit/app.config.mjs",
+      "canonical": "transaction-property-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-title-insurance-closing-fee-audit",
+      "sourceKey": "loan-purchase-ingestion",
+      "source": "/Volumes/external/projects/ai-title-insurance-closing-fee-audit/app.config.mjs",
+      "canonical": "loan-purchase-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-title-insurance-closing-fee-audit",
+      "sourceKey": "owner-policy-calculation",
+      "source": "/Volumes/external/projects/ai-title-insurance-closing-fee-audit/app.config.mjs",
+      "canonical": "owner-policy-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-title-insurance-closing-fee-audit",
+      "sourceKey": "lender-policy-calculation",
+      "source": "/Volumes/external/projects/ai-title-insurance-closing-fee-audit/app.config.mjs",
+      "canonical": "lender-policy-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-title-insurance-closing-fee-audit",
+      "sourceKey": "simultaneous-issue-rate",
+      "source": "/Volumes/external/projects/ai-title-insurance-closing-fee-audit/app.config.mjs",
+      "canonical": "simultaneous-issue-rate",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-title-insurance-closing-fee-audit",
+      "sourceKey": "reissue-refinance-credit",
+      "source": "/Volumes/external/projects/ai-title-insurance-closing-fee-audit/app.config.mjs",
+      "canonical": "reissue-refinance-credit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-title-insurance-closing-fee-audit",
+      "sourceKey": "endorsement-validation",
+      "source": "/Volumes/external/projects/ai-title-insurance-closing-fee-audit/app.config.mjs",
+      "canonical": "endorsement-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-title-insurance-closing-fee-audit",
+      "sourceKey": "search-examination-fee-audit",
+      "source": "/Volumes/external/projects/ai-title-insurance-closing-fee-audit/app.config.mjs",
+      "canonical": "search-examination-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-title-insurance-closing-fee-audit",
+      "sourceKey": "recording-fee-reconciliation",
+      "source": "/Volumes/external/projects/ai-title-insurance-closing-fee-audit/app.config.mjs",
+      "canonical": "recording-fee-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-title-insurance-closing-fee-audit",
+      "sourceKey": "transfer-tax-calculation",
+      "source": "/Volumes/external/projects/ai-title-insurance-closing-fee-audit/app.config.mjs",
+      "canonical": "transfer-tax-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-title-insurance-closing-fee-audit",
+      "sourceKey": "settlement-fee-audit",
+      "source": "/Volumes/external/projects/ai-title-insurance-closing-fee-audit/app.config.mjs",
+      "canonical": "settlement-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-title-insurance-closing-fee-audit",
+      "sourceKey": "closing-disclosure-comparison",
+      "source": "/Volumes/external/projects/ai-title-insurance-closing-fee-audit/app.config.mjs",
+      "canonical": "closing-disclosure-comparison",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-title-insurance-closing-fee-audit",
+      "sourceKey": "refund-package",
+      "source": "/Volumes/external/projects/ai-title-insurance-closing-fee-audit/app.config.mjs",
+      "canonical": "refund-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-title-insurance-closing-fee-audit",
+      "sourceKey": "agent-jurisdiction-analytics",
+      "source": "/Volumes/external/projects/ai-title-insurance-closing-fee-audit/app.config.mjs",
+      "canonical": "agent-jurisdiction-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-title-insurance-closing-fee-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-title-insurance-closing-fee-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-title-insurance-closing-fee-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-title-insurance-closing-fee-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "sourceKey": "InsurancePolicy",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "canonical": "insurance-policy",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "sourceKey": "InsuredBuyer",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "canonical": "insured-buyer",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "sourceKey": "PolicyCondition",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "canonical": "policy-condition",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "sourceKey": "InsuredShipment",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "canonical": "insured-shipment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "sourceKey": "BuyerPayment",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "canonical": "buyer-payment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "sourceKey": "OverdueNotice",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "canonical": "overdue-notice",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "sourceKey": "CreditClaim",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "canonical": "credit-claim",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "sourceKey": "ClaimEvidence",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "canonical": "claim-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "sourceKey": "InsurerDecision",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "canonical": "insurer-decision",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "sourceKey": "policy-condition-extraction",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "canonical": "policy-condition-extraction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "sourceKey": "buyer-limit-exception-brief",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "canonical": "buyer-limit-exception-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "sourceKey": "shipment-declaration-draft",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "canonical": "shipment-declaration-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "sourceKey": "overdue-notice-preparation",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "canonical": "overdue-notice-preparation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "sourceKey": "claim-evidence-gap-analysis",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "canonical": "claim-evidence-gap-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "sourceKey": "insurer-response-summary",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "canonical": "insurer-response-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unemployment-insurance-rate-audit",
+      "sourceKey": "state-account-registry",
+      "source": "/Volumes/external/projects/ai-unemployment-insurance-rate-audit/app.config.mjs",
+      "canonical": "state-account-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unemployment-insurance-rate-audit",
+      "sourceKey": "taxable-wage-ingestion",
+      "source": "/Volumes/external/projects/ai-unemployment-insurance-rate-audit/app.config.mjs",
+      "canonical": "taxable-wage-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unemployment-insurance-rate-audit",
+      "sourceKey": "rate-notice-extraction",
+      "source": "/Volumes/external/projects/ai-unemployment-insurance-rate-audit/app.config.mjs",
+      "canonical": "rate-notice-extraction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unemployment-insurance-rate-audit",
+      "sourceKey": "benefit-charge-statement",
+      "source": "/Volumes/external/projects/ai-unemployment-insurance-rate-audit/app.config.mjs",
+      "canonical": "benefit-charge-statement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unemployment-insurance-rate-audit",
+      "sourceKey": "former-employee-matching",
+      "source": "/Volumes/external/projects/ai-unemployment-insurance-rate-audit/app.config.mjs",
+      "canonical": "former-employee-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unemployment-insurance-rate-audit",
+      "sourceKey": "ineligible-charge-detection",
+      "source": "/Volumes/external/projects/ai-unemployment-insurance-rate-audit/app.config.mjs",
+      "canonical": "ineligible-charge-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unemployment-insurance-rate-audit",
+      "sourceKey": "experience-rating-calculation",
+      "source": "/Volumes/external/projects/ai-unemployment-insurance-rate-audit/app.config.mjs",
+      "canonical": "experience-rating-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unemployment-insurance-rate-audit",
+      "sourceKey": "successor-predecessor-transfer",
+      "source": "/Volumes/external/projects/ai-unemployment-insurance-rate-audit/app.config.mjs",
+      "canonical": "successor-predecessor-transfer",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unemployment-insurance-rate-audit",
+      "sourceKey": "joint-account-analysis",
+      "source": "/Volumes/external/projects/ai-unemployment-insurance-rate-audit/app.config.mjs",
+      "canonical": "joint-account-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unemployment-insurance-rate-audit",
+      "sourceKey": "voluntary-contribution-model",
+      "source": "/Volumes/external/projects/ai-unemployment-insurance-rate-audit/app.config.mjs",
+      "canonical": "voluntary-contribution-model",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unemployment-insurance-rate-audit",
+      "sourceKey": "rate-protest-deadline",
+      "source": "/Volumes/external/projects/ai-unemployment-insurance-rate-audit/app.config.mjs",
+      "canonical": "rate-protest-deadline",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unemployment-insurance-rate-audit",
+      "sourceKey": "protest-evidence-package",
+      "source": "/Volumes/external/projects/ai-unemployment-insurance-rate-audit/app.config.mjs",
+      "canonical": "protest-evidence-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unemployment-insurance-rate-audit",
+      "sourceKey": "amended-return-workflow",
+      "source": "/Volumes/external/projects/ai-unemployment-insurance-rate-audit/app.config.mjs",
+      "canonical": "amended-return-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unemployment-insurance-rate-audit",
+      "sourceKey": "refund-reconciliation",
+      "source": "/Volumes/external/projects/ai-unemployment-insurance-rate-audit/app.config.mjs",
+      "canonical": "refund-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unemployment-insurance-rate-audit",
+      "sourceKey": "state-employer-analytics",
+      "source": "/Volumes/external/projects/ai-unemployment-insurance-rate-audit/app.config.mjs",
+      "canonical": "state-employer-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unemployment-insurance-rate-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-unemployment-insurance-rate-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unemployment-insurance-rate-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-unemployment-insurance-rate-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "fraud-detection",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/components/AISidebar.jsx",
+      "canonical": "fraud-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "damage-assessment",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/components/AISidebar.jsx",
+      "canonical": "damage-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "risk-assessment",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/components/AISidebar.jsx",
+      "canonical": "risk-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "settlement-recommendation",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/components/AISidebar.jsx",
+      "canonical": "settlement-recommendation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "document-analysis",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/components/AISidebar.jsx",
+      "canonical": "document-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "policy-coverage",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/components/AISidebar.jsx",
+      "canonical": "policy-coverage",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "customer-sentiment",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/components/AISidebar.jsx",
+      "canonical": "customer-sentiment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "claims-forecasting",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/components/AISidebar.jsx",
+      "canonical": "claims-forecasting",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "claim-analysis",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/components/AISidebar.jsx",
+      "canonical": "claim-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "policy-review",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/components/AISidebar.jsx",
+      "canonical": "policy-review",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "customer-analysis",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/components/AISidebar.jsx",
+      "canonical": "customer-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "adjuster-performance",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/components/AISidebar.jsx",
+      "canonical": "adjuster-performance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "payment-analysis",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/components/AISidebar.jsx",
+      "canonical": "payment-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "audit-analysis",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/components/AISidebar.jsx",
+      "canonical": "audit-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "smart-summary",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/components/AISidebar.jsx",
+      "canonical": "smart-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "auto-assign",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/components/AISidebar.jsx",
+      "canonical": "auto-assign",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "claims",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/pages/features.js",
+      "canonical": "claims",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "policies",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/pages/features.js",
+      "canonical": "policies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "customers",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/pages/features.js",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "adjusters",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/pages/features.js",
+      "canonical": "adjusters",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "fraud-alerts",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/pages/features.js",
+      "canonical": "fraud-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "damage-assessments",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/pages/features.js",
+      "canonical": "damage-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "risk-assessments",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/pages/features.js",
+      "canonical": "risk-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "settlements",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/pages/features.js",
+      "canonical": "settlement-recommendation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "documents",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/pages/features.js",
+      "canonical": "document-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "policies",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/pages/features.js",
+      "canonical": "policy-coverage",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "communications",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/pages/features.js",
+      "canonical": "customer-sentiment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "payments",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/pages/features.js",
+      "canonical": "payments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "audit-log",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/pages/features.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "subrogation-optimizer",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/pages/AdvancedAITools.jsx",
+      "canonical": "subrogation-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "reserve-estimation",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/pages/AdvancedAITools.jsx",
+      "canonical": "reserve-estimation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "predictive-settlement-optimization",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/pages/AdvancedAITools.jsx",
+      "canonical": "predictive-settlement-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "adjuster-workload-balancing",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/pages/AdvancedAITools.jsx",
+      "canonical": "adjuster-workload-balancing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "customer-ltv-retention",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster/frontend/src/pages/AdvancedAITools.jsx",
+      "canonical": "customer-ltv-retention",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "pass5-tools",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "canonical": "pass5-tools",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "claim-severity-leakage-audit",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "canonical": "claim-severity-leakage-audit",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "cf-agentic-claims-triage-auto-routing-by",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "canonical": "agentic-claims-triage-auto-routing-by",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "cf-computer-vision-damage-assessment-from-m",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "canonical": "computer-vision-damage-assessment-from-m",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "cf-fraud-ring-detection-correlating-claims-",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "canonical": "fraud-ring-detection-correlating-claims",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "cf-predictive-settlement-optimization-model",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "canonical": "predictive-settlement-optimization-model",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "cf-adjuster-workload-balancing-using-capaci",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "canonical": "adjuster-workload-balancing-using-capaci",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "cf-customer-ltv-retention-predicting-post-c",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "canonical": "customer-ltv-retention-predicting-post-c",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "gap-no-subrogation-recovery-optimizer",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "canonical": "subrogation-recovery-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "gap-no-reserve-estimation-ai",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "canonical": "reserve-estimation-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "gap-no-litigation-outcome-predictor",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "canonical": "litigation-outcome-predictor",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "gap-no-image-based-vehicle-damage-estimator",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "canonical": "image-based-vehicle-damage-estimator",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "gap-no-webhook-surface-for-fnol-ingestion",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "canonical": "webhook-surface-for-fnol-ingestion",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "gap-no-mobile-push-notifications-for-field",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "canonical": "mobile-push-notifications-for-field",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "gap-no-e-signature-for-settlements",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "canonical": "e-signature-for-settlements",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "gap-no-notifications-module-0-references",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "canonical": "notifications-module-0-references",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "gap-no-websocket-real-time-claim-feed",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "canonical": "websocket-real-time-claim-feed",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "missing-features",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "canonical": "missing-features",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "sourceKey": "production-readiness",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "canonical": "production-readiness",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "policies",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "policies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "customers",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "claims",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "claims",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "risk-assessment",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "risk-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "underwriting-rules",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "underwriting-rules",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "fraud-detection",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "fraud-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "premium-calculator",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "premium-calculator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "documents",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "document-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "compliance",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "reinsurance",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "reinsurance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "loss-ratio",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "loss-ratio",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "agents-brokers",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "agents-brokers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "audit-log",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "renewals",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "renewals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "quote-bind-issue",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "quote-bind-issue",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "billing-payments",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "billing-payments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "endorsements",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "endorsements",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "cancellations",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "cancellations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "esignature-packets",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "esignature-packets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "rbac-admin",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "rbac-admin",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "audit-exports",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "audit-exports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "__policy-recommendation",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "policy-recommendation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "__customer-portal",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "customer-portal",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "__agent-portal",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "agent-portal",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "__uw-workflow",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "uw-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "__integration-center",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "integration-center",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "__agentic-underwriting",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "agentic-underwriting",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "__renewal-optimizer",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "renewal-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "__appetite-drift",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "appetite-drift",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "__production-controls",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "canonical": "production-controls",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "Policy Management",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "policy-management",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "Customer Management",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "customer-management",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "Claims Processing",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "claims-processing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "/ai-evaluate",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "evaluate",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "Risk Assessment",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "risk-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "/ai-analyze",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "analyze",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "Underwriting Rules",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "underwriting-rules",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "/ai-suggest",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "suggest",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "Fraud Detection",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "fraud-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "/ai-investigate",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "investigate",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "Premium Calculator",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "premium-calculator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "/ai-optimize",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "optimize",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "Document Analysis",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "document-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "/ai-analyze",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "analyze",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "Compliance Monitoring",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "Reinsurance Treaties",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "reinsurance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "Loss Ratio Analysis",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "loss-ratio",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "/ai-predict",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "predict",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "Agents & Brokers",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "agents-brokers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "Audit Trail",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "audit-trail",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "Reports & Analytics",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "Policy Renewals",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "renewals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "/ai-recommend",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "recommend",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "Quote Bind Issue",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "quote-bind-issue",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "Billing & Payments",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "billing-payments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "Endorsements",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "endorsements",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "Cancellations",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "cancellations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "E-Signature Packets",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "e-signature-packets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "RBAC Admin",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "rbac-admin",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "Audit Exports",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "audit-exports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "policy-recommendation",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "policy-recommendation",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "pass5-tools",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "pass5-tools",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "appetite-drift-monitor",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "appetite-drift-monitor",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "production-controls",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "production-controls",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "customer-portal",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "customer-portal",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "agent-portal",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "agent-portal",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "uw-workflow",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "uw-workflow",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "integration-center",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "integration-center",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "agentic-underwriting",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "agentic-underwriting",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "renewal-optimizer",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "renewal-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "cf-agentic-underwriting-automation-handling",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "agentic-underwriting-automation-handling",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "cf-fraud-syndicate-detection-correlating-ap",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "fraud-syndicate-detection-correlating-ap",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "cf-premium-dynamism-recommending-real-time-",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "premium-dynamism-recommending-real-time",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "cf-renewals-optimization-predicting-likelih",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "renewals-optimization-predicting-likelih",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "cf-rule-engine-optimization-recommending-up",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "rule-engine-optimization-recommending-up",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "gap-no-ai-premium-rate-recommender",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "ai-premium-rate-recommender",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "gap-no-fraud-probability-ai",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "fraud-probability-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "gap-no-policy-recommendation-engine",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "policy-recommendation-engine",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "gap-no-renewal-prediction-model",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "renewal-prediction-model",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "gap-no-rule-optimization-analyzer",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "rule-optimization-analyzer",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "gap-live-rating-bureau-integration-still-sca",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "live-rating-bureau-integration-still-sca",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "gap-no-webhook-surface-for-application-event",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "webhook-surface-for-application-event",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "gap-no-file-upload-for-supporting-documents",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "file-upload-for-supporting-documents",
+      "kind": "route"
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "sourceKey": "gap-no-e-signature-for-binderspolicies",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "canonical": "e-signature-for-binderspolicies",
+      "kind": "route"
+    },
+    {
+      "project": "claims-subrogation-recovery-suite",
+      "sourceKey": "rules",
+      "source": "/Volumes/external/projects/claims-subrogation-recovery-suite/public/app.js",
+      "canonical": "rules",
+      "kind": "definition"
+    },
+    {
+      "project": "claims-subrogation-recovery-suite",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/claims-subrogation-recovery-suite/public/app.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/ai/quote-generator",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/app/(dashboard)/ai/page.tsx",
+      "canonical": "quote-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/ai/coverage-analyzer",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/app/(dashboard)/ai/page.tsx",
+      "canonical": "coverage-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/ai/claims-assistant",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/app/(dashboard)/ai/page.tsx",
+      "canonical": "claims-assistant",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/ai/renewal-predictor",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/app/(dashboard)/ai/page.tsx",
+      "canonical": "renewal-predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/ai/cross-sell",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/app/(dashboard)/ai/page.tsx",
+      "canonical": "cross-sell",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/ai/voice-receptionist",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/app/(dashboard)/ai/page.tsx",
+      "canonical": "voice-receptionist",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/ai/document-processor",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/app/(dashboard)/ai/page.tsx",
+      "canonical": "document-processor",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/ai/risk-assessor",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/app/(dashboard)/ai/page.tsx",
+      "canonical": "risk-assessor",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/ai/email-composer",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/app/(dashboard)/ai/page.tsx",
+      "canonical": "email-composer",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/ai/smart-search",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/app/(dashboard)/ai/page.tsx",
+      "canonical": "smart-search",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/ai/client-summary",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/app/(dashboard)/ai/page.tsx",
+      "canonical": "client-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/ai/claim-summarizer",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/app/(dashboard)/ai/page.tsx",
+      "canonical": "claim-summarizer",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/ai/policy-comparison",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/app/(dashboard)/ai/page.tsx",
+      "canonical": "policy-comparison",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/ai/chatbot",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/app/(dashboard)/ai/page.tsx",
+      "canonical": "chatbot",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/ai/sentiment-analysis",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/app/(dashboard)/ai/page.tsx",
+      "canonical": "sentiment-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/ai/loss-run-analyzer",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/app/(dashboard)/ai/page.tsx",
+      "canonical": "loss-run-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/ai/endorsement-recommender",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/app/(dashboard)/ai/page.tsx",
+      "canonical": "endorsement-recommender",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/ai/compliance-checker",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/app/(dashboard)/ai/page.tsx",
+      "canonical": "compliance-checker",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/clients",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/clients/personal",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "clients-personal",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/clients/commercial",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "clients-commercial",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/clients/households",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "clients-households",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/clients/contacts",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/clients/life-events",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "clients-life-events",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/clients/documents",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/policies",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "policies",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/policies/endorsements",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "endorsements",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/policies/renewals",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "policies-renewals",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/policies/cancellations",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "cancellations",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/quotes",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "quotes",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/quotes/comparisons",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "quotes-comparisons",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/quotes/proposals",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "quotes-proposals",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/quotes/follow-ups",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "quotes-follow-ups",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/claims",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "claims",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/claims/settlements",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "claims-settlements",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/commissions",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "commissions",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/commissions/statements",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "commissions-statements",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/commissions/forecasting",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "commissions-forecasting",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/commissions/splits",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "commissions-splits",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/marketing/campaigns",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "marketing-campaigns",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/marketing/templates",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "marketing-templates",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/marketing/referrals",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "marketing-referrals",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/marketing/cross-sell",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "marketing-cross-sell",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/payments",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "payments",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/underwriting",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "underwriting",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/underwriting/rules",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "underwriting-rules",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/compliance",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/compliance/rules",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "compliance-rules",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/compliance/checks",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "compliance-checks",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/escalations",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "escalations",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/complaints",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "complaints",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/ai/quote-generator",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "quote-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/ai/ai-suite",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "ai-suite",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "/voice-agents",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "canonical": "voice-agents",
+      "kind": "definition"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "portal/policies",
+      "source": "/Volumes/external/projects/insuranceAgenc",
+      "canonical": "policies",
+      "kind": "route"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "portal/claims",
+      "source": "/Volumes/external/projects/insuranceAgenc",
+      "canonical": "claims",
+      "kind": "route"
+    },
+    {
+      "project": "insuranceAgenc",
+      "sourceKey": "portal/documents",
+      "source": "/Volumes/external/projects/insuranceAgenc",
+      "canonical": "documents",
+      "kind": "route"
+    },
+    {
+      "project": "workers-comp-claims-bill-review-suite",
+      "sourceKey": "rules",
+      "source": "/Volumes/external/projects/workers-comp-claims-bill-review-suite/public/app.js",
+      "canonical": "rules",
+      "kind": "definition"
+    },
+    {
+      "project": "workers-comp-claims-bill-review-suite",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/workers-comp-claims-bill-review-suite/public/app.js",
+      "canonical": "reports",
+      "kind": "definition"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-business-interruption-claim-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-business-interruption-claim-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-captive-insurance-collateral-reconciliation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-captive-insurance-collateral-reconciliation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-cargo-loss-damage-claims-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-cargo-loss-damage-claims-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-catastrophe-reinsurance-recoverable-management",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-catastrophe-reinsurance-recoverable-management/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-commercial-insurance-contingent-commission-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-contingent-commission-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-commercial-insurance-premium-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-premium-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-commercial-insurance-premium-audit",
+      "key": "ai",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-premium-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-commercial-insurance-premium-audit",
+      "key": "operations",
+      "source": "/Volumes/external/projects/ai-commercial-insurance-premium-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-crop-insurance-claim-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-crop-insurance-claim-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-cyber-insurance-incident-claim-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-cyber-insurance-incident-claim-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-insurance-agent-commission-chargeback-reconciliation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-insurance-agent-commission-chargeback-reconciliation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-insurance-broker-commission-reconciliation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-insurance-broker-commission-reconciliation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-premium-audit-return-premium-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-premium-audit-return-premium-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-reinsurance-collateral-trust-funding-reconciliation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-reinsurance-collateral-trust-funding-reconciliation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-surety-bond-claim-indemnity-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-surety-bond-claim-indemnity-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-title-insurance-closing-fee-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-title-insurance-closing-fee-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-trade-credit-insurance-policy-operations",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-trade-credit-insurance-policy-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-unemployment-insurance-rate-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-unemployment-insurance-rate-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "key": "advanced-ai",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInsuranceClaimsAdjuster",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIInsuranceClaimsAdjuster",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "key": "__ai-center",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "key": "__custom-views",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent/frontend/src/navigation.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "key": "/feature/:slug",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIInsuranceUnderwritingAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "key": "/cf-customer-ri[redacted]",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "key": "/gap-no-ri[redacted]",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIInsuranceUnderwritingAgent",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "claims-subrogation-recovery-suite",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/claims-subrogation-recovery-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "claims-subrogation-recovery-suite",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/claims-subrogation-recovery-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "insuranceAgenc",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "insuranceAgenc",
+      "key": "/ai",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "insuranceAgenc",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/insuranceAgenc/src/components/layout/Sidebar.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "insuranceAgenc",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/insuranceAgenc",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "insuranceAgenc",
+      "key": "ai",
+      "source": "/Volumes/external/projects/insuranceAgenc",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "insuranceAgenc",
+      "key": "settings",
+      "source": "/Volumes/external/projects/insuranceAgenc",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "workers-comp-claims-bill-review-suite",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/workers-comp-claims-bill-review-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "workers-comp-claims-bill-review-suite",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/workers-comp-claims-bill-review-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "policy-endorsement-and-sublimit-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "covered-location-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "loss-event-timeline",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "physical-damage-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "historical-revenue-normalization",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "lost-sales-forecasting",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "saved-expense-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "continuing-expense-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "extra-expense-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "restoration-period-modeling",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "dependent-property-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "civil-authority-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "claim-documentation-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "insurer-request-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "advance-and-settlement-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "claim-scenario-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fronting-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "program-year-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "loss-run-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "case-reserve-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ibnr-methodology",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "paid-loss-credit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "premium-offset-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "collateral-formula-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "instrument-inventory",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "letter-of-credit-fee-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "trust-asset-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "release-opportunity-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fronting-carrier-request",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "accounting-close-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "program-capital-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "carrier-liability-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "shipment-commodity-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "bill-of-lading-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "custody-event-timeline",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "seal-and-handoff-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "shortage-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "damage-photo-and-survey-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "temperature-excursion-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "salvage-value-management",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "replacement-cost-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "liability-limitation-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "claim-filing-deadline-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "claim-packet-generation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "carrier-response-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "settlement-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "carrier-commodity-and-lane-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "catastrophe-event-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "claim-loss-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "occurrence-definition-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "hours-clause-grouping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ultimate-loss-estimate",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "retention-erosion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "layer-allocation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "limit-exhaustion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reinstatement-premium",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-call-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "notice-deadline-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "proof-of-loss-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reinsurer-query-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "collection-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "event-tower-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "project": "ai-claims-litigation-early-warning-system",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    },
+    {
+      "feature": "producer-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "policy-premium-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "written-premium-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "earned-premium-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "growth-target-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "retention-ratio-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "loss-ratio-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "profitability-corridor",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tier-and-hurdle-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "acquisition-exclusion-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "commission-statement-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "carrier-claim-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "payment-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "producer-allocation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "carrier-segment-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "farm-unit-acreage-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "policy-endorsement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "acreage-report-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "production-history",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "harvest-scale-ticket-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "yield-loss-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "revenue-protection-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "harvest-price-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "prevented-planting-eligibility",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "replant-payment-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "quality-adjustment",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "notice-of-loss-deadline",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "adjuster-evidence-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "indemnity-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "crop-county-peril-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "policy-endorsement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "incident-timeline",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "notification-deadline-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "forensic-vendor-cost-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "legal-counsel-costs",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "notification-monitoring-expense",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "data-restoration-expense",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "business-interruption-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cyber-extortion-expense",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "regulatory-defense-costs",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "social-engineering-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "consent-panel-vendor-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "proof-of-loss-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "insurer-request-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "settlement-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "producer-contract-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "license-appointment-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "policy-premium-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "commission-schedule-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "hierarchy-split-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "new-business-commission",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "renewal-commission",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "advance-commission-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cancellation-chargeback",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "free-look-reversal",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "replacement-policy-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "statement-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "producer-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-payment-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "carrier-producer-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "carrier-and-producer-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "policy-and-endorsement-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "written-premium-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "earned-premium-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "base-commission-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "override-and-bonus-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "contingent-commission-forecasting",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cancellation-and-return-commission",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "producer-split-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "direct-bill-statement-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "agency-bill-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "missing-commission-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "carrier-inquiry-and-dispute",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-application-and-aging",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "carrier-and-producer-profitability-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "policy-exposure-terms",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "classification-code-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "payroll-exposure-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "sales-exposure-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "subcontractor-cost-review",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "certificate-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "owner-officer-exclusion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "experience-modification-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rate-and-factor-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "audit-worksheet-reconstruction",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "dispute-evidence-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "carrier-negotiation-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "return-premium-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "policy-class-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "agreement-collateral-terms",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reserve-recoverable-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "paid-loss-recoverables",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "required-collateral-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "asset-eligibility-review",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "valuation-haircut-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-rating-adjustment",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "letter-of-credit-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "trust-statement-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "funds-withheld-balance",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "collateral-call-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "excess-release-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "counterparty-dispute-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "accounting-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "treaty-counterparty-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "bond-indemnity-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "principal-indemnitor-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "claim-payment-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "completion-cost-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "loss-adjustment-expense",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "collateral-inventory",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "collateral-drawdown",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "salvage-asset-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "principal-reimbursement-demand",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "co-surety-allocation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "subrogation-opportunity",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "recovery-litigation-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-recovery-ledger",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reserve-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "bond-principal-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "state-title-rate-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "transaction-property-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "loan-purchase-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "owner-policy-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "lender-policy-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "simultaneous-issue-rate",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reissue-refinance-credit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "endorsement-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "search-examination-fee-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "recording-fee-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "transfer-tax-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "settlement-fee-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "closing-disclosure-comparison",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "agent-jurisdiction-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "state-account-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "taxable-wage-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rate-notice-extraction",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "benefit-charge-statement",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "former-employee-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ineligible-charge-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "experience-rating-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "successor-predecessor-transfer",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "joint-account-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "voluntary-contribution-model",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rate-protest-deadline",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "protest-evidence-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "amended-return-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "state-employer-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    }
+  ]
+}
